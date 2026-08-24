@@ -1,4 +1,4 @@
-<img width="3060" height="4080" alt="1000004048" src="https://github.com/user-attachments/assets/bf56a9aa-c5fd-457a-9e31-0cf56708d7b6" />
+
 # A1 – Build Your Professional Portfolio
 
 ## Objective
