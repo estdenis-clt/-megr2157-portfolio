@@ -1,3 +1,4 @@
+<img width="3060" height="4080" alt="1000004048" src="https://github.com/user-attachments/assets/bf56a9aa-c5fd-457a-9e31-0cf56708d7b6" />
 # A1 – Build Your Professional Portfolio
 
 ## Objective
@@ -35,13 +36,34 @@ Portfolio 2: within the second portfolio, the language and tone used are profess
 
 Task B:  Product Analysis
 
+
 A. The primary purpose of nail clippers is to be able to precisely and easily cut through a nail without damaging the nail bed and allow users to have a mechanical advantage in order to not require a great amount of force so the product is usable for anyone. It does this by using a letter to depress a piece of metal that is intention so as the lever is pressed the top cutter is pushed all the way until it meets the lower cutter and is able to make a clean cut through the nail. and since the top cutter is intention, as the lever is released the top portion is reset back to a height where it meets the lever as a stop. 
 
 B. Primary behavior is governed by the idea of torque, as it is a lever applying a force onto a piece of metal that will end up cutting through a nail by using the concept of shear. Because this is the main principle, the equation would be laid out by τ=Fd where torque is equal to force times the distance away from the fulcrum point and or from the pivot. This allows for a mechanical advantage that the user can use to be able to cut through the nail without struggling no matter the physical strength of the user. One of the assumptions that has to be made in the math behind a nail clipper is friction as it makes such a negligible difference in the operation of the tool that it can essentially be ignored without large ramifications.
 
+C.
+
+<img width="3060" height="4080" alt="1000004048" src="https://github.com/user-attachments/assets/2c2e310f-ac82-419e-a987-2e811131e007" />
+
+Lever: the geometric science behind the lever is important because it needs to be a certain length and angle so when it makes contact with the arms it can properly apply the force in the correct place on the arms to laugh or enough mechanical advantage to cut through the nail and without colliding with the arms. It also needs to be designed geometrically so the user can use the lever easily without having to put themselves in danger of harming their fingers or hands. The length of the lever is also important because without the proper length, the user may not be able to provide the correct amount of force on to the nail in order to allow the Jaws to cut through the nail entirely. Additionally, the geometric design is also reliant on the angle of which the lever meets the arms because without proper design, the lever could collide with the arms before reaching the proper and necessary Force required to make a clean cut. 
+
+
+<img width="3060" height="4080" alt="1000004049" src="https://github.com/user-attachments/assets/01c1f691-c672-4ce2-b50c-b57cc11dae2f" />
+
+Post: The post's main purpose is to allow for the lever to apply Force onto the arms in order to be able to make the cut. Its main purpose is to keep the whole system assembled and without it no cut would be possible and the entire system would not be able to hold together. The geometric design of the post is imperative because it must allow for the lever to properly attach the lever to the point where it can rotate in order to go into the cutting position and make a full cut without detaching and then do the collapsing process without any hiccups. The other geometric importance of this post is to allow for the lever to actuate over its life cycle without having impromptu wear problems that allows for certain problems that could lead to safety hazards and improper cuts into nails. Also, the geometric importance of the design must also allow for full compression of the arms so the lever can depress it all the way without having an early collision with the fully enclosed position. 
+
+
+<img width="3060" height="4080" alt="1000004050" src="https://github.com/user-attachments/assets/fb2c10c9-c440-4e8a-9b65-3c79bae6552d" />
+
+Arms: The geometric design of the arms allows for the arms to meet together and let the blades go through the nail and make a straight cut through and then meet each other. The geometric precision required from these arms is imperative because without it either the nail clippers won't make a clean cut and perhaps harm the user or could just not work at all and just merely put an indent in the nail. The geometry must be perfect in symmetrical allowing for the Jaws to have a uniform path into each other almost like a mirror reflection.
+
+
+D. Hector Alfaro’s design as found in patent US20070067995A1, Is an extremely easy and effective platform to allow for nail cutting to be precise and easy for everyday users. Some alternative products that fulfill the same purpose would be manual small Beauty scissors or an electric nail file which both have their advantages and disadvantages.  The biggest disadvantages in both of the alternatives is the simplicity of the product as the electric nail file has a long set up time and can sometimes lack precision and the manual scissors can take a long time and the cuts are not always clean as it's heavily dependent on the capabilities of the user. On the other hand, the nail clippers are extremely easy to deploy, create cuts that are in the same Arc as natural nail beds and allow for quick and easy cuts that can be adjusted by very very precise measures in the same shape. One of the design choices the Creator made was the usage of a long hole that had rounded edges on each side which allows for the lever to be easily attached and detached from the post and arm system in order to allow for easy replacement or problem diagnosis. I believe this design was made for easy manufacturing as well as the ability to quickly disassemble the system in the event of needing a replacement or fixing a defective part. 
+
 
 ## Decide
 
+1.  Homepage Identity: The Homepage needs to  
 
 ## Communicate
 
