@@ -1,2 +1,10 @@
 #About Me
-This is how to edit
+Hi! I'm Evan St. Denis and I'm a mechanical engineering student at UNC at Charlotte currently working on my junior year. I started my engineering journey in high-school where I went through the Project Lead The Way program in the engineering section. There I learned what an engineer is and how to become one. The program went through a plethora of topics ranging from the engineering process all the way to complex calculations an engineer may face such as stormwater and beam deflection. It was from that point that I became interested in going into engineering as a career. Since then I have created many projects such as a universal storage system for cargo on motorcycles, a water filtration system as well as an assortment of other projects.
+
+As a mechanical engineering student, I have access to cutting edge technology that can allow me to create products and solutions that the world has demanded for. I’ve had opportunities to learn how to become proficient in the engineering process and learn how to code in Python and MATLAB in order to prepare me for the future. I have since the beginning seeked out extra information on the manufacturing process and how to slim processes down through different methods that primarily stem from Lean Six Sigma. 
+
+My Portfolio includes a range of projects and skills I’ve acquired throughout my academic career and demonstrates my proficiency within the mechanical engineering discipline. These projects highlight my ability to go from a simple problem and using theoretical and application based learning which results in a polished solution ready for real world applications. Each project shows my passion for engineering and solving problems using advanced techniques and manufacturing processes to create sophisticated solutions.
+
+I invite you to further explore my portfolio and understand more about what I create and how my background and diverse skillset can translate into the fields of Mechanical, Automotive and industrial engineering
+
+Let’s connect and dive into how we can push forward and shape the future of innovative solutions to the world's problems!
