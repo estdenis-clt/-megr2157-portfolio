@@ -13,13 +13,16 @@ The length of a is 0.4 m, the length of B is 0.3 m, a is a pin and point B is a 
 
 #a)
 
-img of final design
+<img width="1928" height="1339" alt="1000004119" src="https://github.com/user-attachments/assets/51864f63-803a-45e2-92da-a2c77c074f21" />
+
 
 **i.**
 
 When first developing this truss I first had to think about the statics behind the project. The beginning thought is how one has to create a truss that works with both a pin and a roller. With A being entirely locked in place through the usage of a pin, it was important to realize how the forces of X and Y were going to be calculated when creating this truss. 
 
 img of beginning truss
+<img width="3060" height="1023" alt="1000004120" src="https://github.com/user-attachments/assets/aed46511-d2d9-41e5-9ca8-44a9982d83dc" />
+
 
 I began my truss by simply connecting a line from the pin at A to the roller at B. This allowed me to connect both ends of the diagram while thinking about how I'm going to approach the rest of the truss. For the sake of simplicity and straightforwardness I connected a line from point B to point C and then I connected point A to point d. I then connected Point C and D which gave me a trapezoidal shape. It was at this point that I had to conceptualize what the most efficient method would be for creating a truss that would be able to withstand the forces of pee that are going in two different directions on the points of C and D. for this design, I took inspiration from truss designs that could be found in bridges all around the world and decided that the best method was to divide the trapezoid into three triangles. The way that I did this was by creating the first triangle by having two beams come down from the center point between points A and B and have them split into two beams one going to see and one going to do. This created the first triangle allowing for the loads put on the lower bar engaged by the upper beam and for the forces coming from the X Direction be held by those supporting beams. It was at this point that the structure was completed. This is because all of the different parts of the trusses created a three triangle setup that connected all four points and taking into account the different forces coming from the supports and from the applied forces at p. the reasoning behind this design was to essentially keep things easy as it made symmetry in the design in both the left and right side. This is because if there were any other loads or forces that would be applied to this truss outside of the agreed upon limits of the assignment, my truss would be able to safely be able to work within its safety factor in terms of holding said forces.
 
@@ -27,22 +30,30 @@ I began my truss by simply connecting a line from the pin at A to the roller at 
 **ii.**
 
 img of external fbd
+<img width="2790" height="1759" alt="1000004122" src="https://github.com/user-attachments/assets/deabd578-1306-4f32-beac-d1843cfe9155" />
+
 
 It was at this point that I decided to solve external forces for the truss. It was at this point that I did the moment about point B because that was able to give me By. To finish solving for the external forces I solved for the forces in the y direction this would give me the forces of Ay. 
 
 img of internal fbds
+<img width="2699" height="2875" alt="1000004123" src="https://github.com/user-attachments/assets/b6d48378-b35f-4cc5-b731-73b17d4385cc" />
+
 
 It was at this point that I could start using the method of joints in order to solve all of my internal forces. In order to solve for all of my internal forces on each member, I first started on pin B. the first thing that I did was solved for the sum of forces in the y direction which gave me the force of the member BC and then I sell for forces in the X Direction which gave me the force of the member BE. I then repeated that process for Pins A, C and finally pin D in order to find the forces in all of my members. 
 
-img symbol FBD
+
 
 I did this first symbolically and then came back and did it numerically after I verified the algebra was correct. although it is important to point out I did struggle with figuring out the ratios of lengths in order to properly get the geometry set up for the math.
 
 img math from fbd
+<img width="1800" height="2264" alt="1000004124" src="https://github.com/user-attachments/assets/d0b00069-9cdf-4423-886c-b1591aa0a968" />
+
 
 #b)
 
 img of cross sectional math
+<img width="3672" height="2430" alt="1000004125" src="https://github.com/user-attachments/assets/87bd2e1a-32d6-44a6-8755-e27158fc1948" />
+
 
 After doing all of this, it was now time to solve for the cross-sectional area. and admittedly, I had no idea what I was doing so after consulting a few books and a few friends on how to solve this, I was able to get to work. It was at this point that I learned that my cross-sectional area needs to be done at the point in which there is the most applied forces. The max force my truss was experiencing was 20.03 kN which was experienced on the members CE and DE.
 
@@ -64,7 +75,7 @@ img of cross section math
 
 img of truss weight
 
- After that, I then needed to calculate the total weight of the truss.Then came one of my biggest issues being the calculation of all the lengths of the beams. Although this does not seem like a complicated task I seem to have made it as it took me a long time to properly find a length that made sense. It was at this point I could now calculate the weight of the truss. so using the density of the materials and by calculating the volume I was able to calculate a total mass of 5.76 kg. 
+After that, I then needed to calculate the total weight of the truss.Then came one of my biggest issues being the calculation of all the lengths of the beams. Although this does not seem like a complicated task I seem to have made it as it took me a long time to properly find a length that made sense. It was at this point I could now calculate the weight of the truss. so using the density of the materials and by calculating the volume I was able to calculate a total mass of 5.76 kg. 
 
 
 ## 3. Pin Calculations
@@ -74,10 +85,14 @@ img of truss weight
 **i.**
 
 img of unknowns and knowns
+<img width="4025" height="2505" alt="1000004126" src="https://github.com/user-attachments/assets/6dd310ae-6fe3-4bd4-95d7-2b78c2927c87" />
+
 
 **ii.**
 
 img of pin FBD with the largest reaction load.
+<img width="3708" height="2290" alt="1000004127" src="https://github.com/user-attachments/assets/cd4178bf-4b6c-4b88-9a2f-64420da02c3b" />
+
 
 **iii.**
 
@@ -95,6 +110,8 @@ My final cross sectional area that I was able to calculate came out to 0.106 in 
 **v.**
 
 img of the approximate combined weight of the pins.
+<img width="3944" height="1835" alt="1000004128" src="https://github.com/user-attachments/assets/e42231a3-7f72-489a-9f83-c2f34173a086" />
+
 
 Now that I had solved for the weight of the truss I now needed to get the weight of all five pins that I was going to use in my design. I did this by taking the cross sectional area and multiplying it by a length. At the time I wasn't sure of what length my pants should be so I just put in one inch as an arbitrary number just so I could get my data and move forward in the continuation process. After calculating my volume and multiplying it by the density of the given material I was able to find a total weight of all the pins to be Just under 75 g. At the time that number seemed extremely low from the idea of the pins but after doing the math it was because the necessary size of the pins was far lower than expected.
 
