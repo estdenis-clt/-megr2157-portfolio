@@ -149,24 +149,24 @@ I used Claude In order to help me do research and develop answers for this secti
 
 **1.**
 
-Within my trust design, there were three types of beans being the ones intention, the ones of compression and the ones that were zero-force. of my beans used, these were the following.
+Within my trust design, there were three types of beans being the ones in tension, the ones in compression and the ones that were zero-force. Of my beams used, these were the following.
 
 Tension: DA, BE, ED
 Compression: BC, EA, CE
 Zero-force: CD
 
-The expected failure for tension members are typically fractures that are either gross section yielding or net section fractures. Both of these typically cause fractures and other detrimental failures. of the compression members, they are likely to have failed either by yielding or by buckling because as a beam is compressed those are the two options but the outcome is dictated by the slenderness of the beam itself. For the 0 Force member, there is no fail risk because it simply has no Force to cause it to fail; however , the only way it could fail is if there was another Force being applied from something else such as wind shear or for some reason the supports shift around.
+The expected failure for tension members are typically fractures that are either yielding or fractures. Both of these typically cause detrimental failures. Of the compression members, they are likely to have failed either by yielding or by buckling because as a beam is compressed they have a tendency to fail eventually and the way it fails is dictated by the slenderness of the beam itself. For the zero-force member, there is no fail risk because it simply has no Force to cause it to fail. However , the only way it could fail is if there was another force being applied from something else such as wind shear or for some reason the supports shift around.
 
 
 **2.**
 
-The material used for the stress is a 500 Grade B structural steel which is ductile in nature. This is because it is a standard formed cold carbon steel.
+The material used for the stress is A500 Grade B structural steel which is a low ductile material in nature. This is because it is a standard formed cold carbon steel.
 
 **3.**
 
 <img width="487" height="157" alt="image" src="https://github.com/user-attachments/assets/71781764-8718-4d4a-93ad-eb956e5f88f5" />
 
-According to the formulas, the members in which experience lower Force typically have lower stress and the safety margin is far higher than what's required. The force however on the higher Force members is at a lower level of safety factor well within the necessary amount but it goes to show that the members CE and ED are the most critical members of the beam in that way.
+According to the formulas, the members in which experience lower force typically have lower stress and the safety margin is far higher than what's required. The force however on the higher Force members is at a lower level of safety factor well within the necessary amount but it goes to show that the members CE and ED are the most critical members of the beam in that way.
 
 
 **4.**
@@ -177,11 +177,11 @@ A couple of ways in order to reduce the likelihood of these failures would be si
 
 **1.**
 
-So the expected failure of a pen will likely be the single plane shear failure mostly because the force is a direct shear across a singular plane and so it would likely damage the hole that the pin lives in and then shear the pin in half.
+So the expected failure of a pin will likely be the single plane shear failure mostly because the force is a direct shear across a singular plane and so it would likely damage the hole that the pin lives in and then shear the pin in half.
 
 **2.**
 
-According to some industry insiders such as total Materia and virgament, the behavior of hardened tool steel is less ductile than more mild and structural steel unless it has special treatments through tempering in order to get certain characteristics and so this little lead to lower ductility and therefore higher brittleness leading to easier fracturing than it would with yielding or some other failure that may be common. Another thing is that the shear stress equation says that the distance from the whole Center to a plate Edge should be at least 1.5 times the pin diameter or to avoid some type of failure like a tear out and from the calculations of my design, it is at 1.575 so it more than enough clears the minimum threshold.
+According to some industry insiders such as total Materia and virgamet, the behavior of hardened tool steel is less ductile than more mild and structural steel unless it has special treatments through tempering in order to get certain characteristics and so this little lead to lower ductility and therefore higher brittleness leading to easier fracturing than it would with yielding or some other failure that may be common. Another thing is that the shear stress equation says that the distance from the whole Center to a plate Edge should be at least 1.5 times the pin diameter or to avoid some type of failure like a tear out and from the calculations of my design, it is at 1.575 times so it more than enough clears the minimum threshold.
 
 **3.**
 
