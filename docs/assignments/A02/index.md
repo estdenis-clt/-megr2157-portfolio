@@ -69,7 +69,7 @@ After that, I then needed to calculate the total weight of the truss.Then came o
 
 <img width="4025" height="2505" alt="1000004126" src="https://github.com/user-attachments/assets/6dd310ae-6fe3-4bd4-95d7-2b78c2927c87" />
 
-
+**ii.**
 
 <img width="3708" height="2290" alt="1000004127" src="https://github.com/user-attachments/assets/cd4178bf-4b6c-4b88-9a2f-64420da02c3b" />
 
@@ -175,4 +175,4 @@ In order to reduce the likelihood of such a failure, there are quite a few thing
 
 **Link to CAD**
 
-Check out [CAD](https://drive.google.com/file/d/17Om5H31IxTSYfzdBL0PQrE1rldL7pyDg/view?usp=sharing) for my CAD file. testing 1 2
+Check out [CAD](https://drive.google.com/file/d/17Om5H31IxTSYfzdBL0PQrE1rldL7pyDg/view?usp=sharing) for my CAD file.
