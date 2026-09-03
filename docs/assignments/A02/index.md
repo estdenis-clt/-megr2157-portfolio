@@ -202,4 +202,4 @@ In order to reduce the likelihood of such a failure, there are quite a few thing
 
 **Link to CAD**
 
-https://drive.google.com/file/d/17Om5H31IxTSYfzdBL0PQrE1rldL7pyDg/view?usp=sharing
+Check out [GitHub Docs]([https://docs.github.com](https://drive.google.com/file/d/17Om5H31IxTSYfzdBL0PQrE1rldL7pyDg/view?usp=sharing)) for my CAD file.
