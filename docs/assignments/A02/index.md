@@ -99,7 +99,7 @@ In order to properly understand how my truss will look and react, it is extremel
 
 <img width="1917" height="927" alt="image" src="https://github.com/user-attachments/assets/818b2eb8-23f7-4688-806e-bd0f9dc2dec2" />
 
-Now that I had created my truss in CAD including the holes for the pins I was able to now calculate the simulated weight given the proper material properties. As Credo does not contain a 500 steel as an option, I had to go and create a custom material. After researching all of the necessary properties of a 500 steel primarily focusing on Grade B as that is the industry standard for creating trusses or structural members I was able to have Creo create a final weight.
+Now that I had created my truss in CAD including the holes for the pins I was able to now calculate the simulated weight given the proper material properties. As Creo does not contain a 500 steel as an option, I had to go and create a custom material. After researching all of the necessary properties of a 500 steel primarily focusing on Grade B as that is the industry standard for creating trusses or structural members I was able to have Creo create a final weight.
 
 
 
