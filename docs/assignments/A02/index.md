@@ -45,35 +45,25 @@ It was at this point that I could start using the method of joints in order to s
 
 I did this first symbolically and then came back and did it numerically after I verified the algebra was correct. although it is important to point out I did struggle with figuring out the ratios of lengths in order to properly get the geometry set up for the math.
 
-img math from fbd
 <img width="1800" height="2264" alt="1000004124" src="https://github.com/user-attachments/assets/d0b00069-9cdf-4423-886c-b1591aa0a968" />
 
 
 #b)
 
-img of cross sectional math
 <img width="3672" height="2430" alt="1000004125" src="https://github.com/user-attachments/assets/87bd2e1a-32d6-44a6-8755-e27158fc1948" />
 
 
 After doing all of this, it was now time to solve for the cross-sectional area. and admittedly, I had no idea what I was doing so after consulting a few books and a few friends on how to solve this, I was able to get to work. It was at this point that I learned that my cross-sectional area needs to be done at the point in which there is the most applied forces. The max force my truss was experiencing was 20.03 kN which was experienced on the members CE and DE.
 
-**i.**
-
-img of unknowns for this
 
 **ii.**
 
-img of cross section symbol
 
 It was at this point that I was able to now move on into finding my cross-sectional area by using the equation that allows for the minimum cross-sectional area. This primarily used the safety factor times the maximum force over the stress. After plugging in these numbers I came back to a minimum cross-sectional area of 0.343 in.
 
-**iii.**
 
-img of cross section math
 
 **iv.**
-
-img of truss weight
 
 After that, I then needed to calculate the total weight of the truss.Then came one of my biggest issues being the calculation of all the lengths of the beams. Although this does not seem like a complicated task I seem to have made it as it took me a long time to properly find a length that made sense. It was at this point I could now calculate the weight of the truss. so using the density of the materials and by calculating the volume I was able to calculate a total mass of 5.76 kg. 
 
@@ -84,32 +74,25 @@ After that, I then needed to calculate the total weight of the truss.Then came o
 
 **i.**
 
-img of unknowns and knowns
 <img width="4025" height="2505" alt="1000004126" src="https://github.com/user-attachments/assets/6dd310ae-6fe3-4bd4-95d7-2b78c2927c87" />
 
 
 **ii.**
 
-img of pin FBD with the largest reaction load.
 <img width="3708" height="2290" alt="1000004127" src="https://github.com/user-attachments/assets/cd4178bf-4b6c-4b88-9a2f-64420da02c3b" />
 
 
 **iii.**
-
-img of Symbolically solve for minimum cross-sectional area.
 
 In order to connect this truss to the points of the assignment, there needs to be pins designed in order to keep it in place and to be able to hold the forces and the load of the truss. In order to do that you have to calculate the cross-sectional area and the overall length. So I looked for this cross-sectional area which had to take into account the total Shear Force that the pins would experience and then multiply it by a safety factor over the maximum share in order to find the cross-sectional area. 
 
 
 **iv.**
 
-img of Numerically solve for the cross-sectional area
-
 My final cross sectional area that I was able to calculate came out to 0.106 in and in order to meet the standard while keeping in mind manufacturing, I bumped up that size to 0.11 in as that would bring it to 3/8 which is an extremely common hole size and not a problem when the entire truss is designed in metric. One of the problems I would find myself struggling with was converting between Imperial and Metric when designing certain elements but I was able to solve that after a lot of double checking and testing.
 
 **v.**
 
-img of the approximate combined weight of the pins.
 <img width="3944" height="1835" alt="1000004128" src="https://github.com/user-attachments/assets/e42231a3-7f72-489a-9f83-c2f34173a086" />
 
 
@@ -122,7 +105,6 @@ Now that I had solved for the weight of the truss I now needed to get the weight
 In order to properly understand how my truss will look and react, it is extremely important that I'm able to visualize it in cad. It was at this point that I booted up Creo with the intention of making my truss. This created quite a few hurdles as my cad skills were a bit rusty and there was a lot of precision required in the design of this truss. I started first by creating the main beam from point A to point B then from there I was able to go from point B and C and from there I followed the process in which I created my truss on paper and translated it to my 3D model in cad. Although that process sounds simple, I ended up switching programs a couple of times to try to help me get a better representation of my 3D model and so eventually coming back to Creo I was able to finally get the proper model. In order to make effective use of my time and to properly follow the rubric we were given, I decided to make my truss all in one piece. Now there are multiple advantages to this just going beyond the cad process and the primary one is that one solid piece of plate will not suffer from the same type of weaknesses that a welded collection of beams would create. because there are no welds or joints that can be weak as they're not one piece, this plate is able to stay in that. This is not however making it entirely immune to these issues but it can help reduce the amount of air that could stem from poor manufacturing or poor quality control. I then swiftly was able to add the proper sized hole for the pins and was able to have my entire truss in one piece. 
 
 
-img of final cad
 <img width="1917" height="927" alt="image" src="https://github.com/user-attachments/assets/818b2eb8-23f7-4688-806e-bd0f9dc2dec2" />
 
 Now that I had created my truss in CAD including the holes for the pins I was able to now calculate the simulated weight given the proper material properties. As Credo does not contain a 500 steel as an option, I had to go and create a custom material. After researching all of the necessary properties of a 500 steel primarily focusing on Grade B as that is the industry standard for creating trusses or structural members I was able to have Creo create a final weight.
@@ -135,7 +117,6 @@ Now that I had created my truss in CAD including the holes for the pins I was ab
 The final weight it came up with was 5.53 kg which is about 0.2 kg less than what I had calculated which would make sense because my calculations did not take into account the holes made for each of the pins. 
 
 
-img of weight
 <img width="1917" height="960" alt="image" src="https://github.com/user-attachments/assets/ae0c49a6-ee32-4678-aac3-4a4c46941bca" />
 
 
