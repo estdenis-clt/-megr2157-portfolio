@@ -20,7 +20,6 @@ The length of a is 0.4 m, the length of B is 0.3 m, a is a pin and point B is a 
 
 When first developing this truss I first had to think about the statics behind the project. The beginning thought is how one has to create a truss that works with both a pin and a roller. With A being entirely locked in place through the usage of a pin, it was important to realize how the forces of X and Y were going to be calculated when creating this truss. 
 
-img of beginning truss
 <img width="3060" height="1023" alt="1000004120" src="https://github.com/user-attachments/assets/aed46511-d2d9-41e5-9ca8-44a9982d83dc" />
 
 
@@ -29,13 +28,11 @@ I began my truss by simply connecting a line from the pin at A to the roller at 
 
 **ii.**
 
-img of external fbd
 <img width="2790" height="1759" alt="1000004122" src="https://github.com/user-attachments/assets/deabd578-1306-4f32-beac-d1843cfe9155" />
 
 
 It was at this point that I decided to solve external forces for the truss. It was at this point that I did the moment about point B because that was able to give me By. To finish solving for the external forces I solved for the forces in the y direction this would give me the forces of Ay. 
 
-img of internal fbds
 <img width="2699" height="2875" alt="1000004123" src="https://github.com/user-attachments/assets/b6d48378-b35f-4cc5-b731-73b17d4385cc" />
 
 
@@ -56,14 +53,10 @@ I did this first symbolically and then came back and did it numerically after I 
 After doing all of this, it was now time to solve for the cross-sectional area. and admittedly, I had no idea what I was doing so after consulting a few books and a few friends on how to solve this, I was able to get to work. It was at this point that I learned that my cross-sectional area needs to be done at the point in which there is the most applied forces. The max force my truss was experiencing was 20.03 kN which was experienced on the members CE and DE.
 
 
-**ii.**
-
 
 It was at this point that I was able to now move on into finding my cross-sectional area by using the equation that allows for the minimum cross-sectional area. This primarily used the safety factor times the maximum force over the stress. After plugging in these numbers I came back to a minimum cross-sectional area of 0.343 in.
 
 
-
-**iv.**
 
 After that, I then needed to calculate the total weight of the truss.Then came one of my biggest issues being the calculation of all the lengths of the beams. Although this does not seem like a complicated task I seem to have made it as it took me a long time to properly find a length that made sense. It was at this point I could now calculate the weight of the truss. so using the density of the materials and by calculating the volume I was able to calculate a total mass of 5.76 kg. 
 
@@ -77,7 +70,6 @@ After that, I then needed to calculate the total weight of the truss.Then came o
 <img width="4025" height="2505" alt="1000004126" src="https://github.com/user-attachments/assets/6dd310ae-6fe3-4bd4-95d7-2b78c2927c87" />
 
 
-**ii.**
 
 <img width="3708" height="2290" alt="1000004127" src="https://github.com/user-attachments/assets/cd4178bf-4b6c-4b88-9a2f-64420da02c3b" />
 
