@@ -71,3 +71,4 @@ After being tasked to modify the design parameters that we were given, I decided
 
 ## CAD File
 
+Check out [CAD](https://drive.google.com/file/d/1yUNAKTKqtENBTMUDxyVB3w1q5fRr68ok/view?usp=sharing) for my CAD file.
