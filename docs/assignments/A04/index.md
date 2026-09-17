@@ -42,7 +42,7 @@ The next step was to design feature one and the best way to start this process w
 <img width="883" height="527" alt="image" src="https://github.com/user-attachments/assets/557fe5db-ed5e-4149-a642-924efef528c6" />
 
 
-After that, I now had to do the calculations of the maximum stress that would be used throughout the designing process and would allow me to make a functioning product. In order to do this I had to draw a free body diagram and use Statics in order to find the moment about point A.
+After that, I now had to do the calculations of the maximum stress that would be used throughout the designing process and would allow me to make a functioning product. In order to do this I had to draw a free body diagram and use statics in order to find the moment about point A.
 
 
 <img width="888" height="502" alt="image" src="https://github.com/user-attachments/assets/467260c3-7f6c-48b8-8fd1-92cfeb21634b" />
@@ -57,7 +57,7 @@ Then the next objective was to calculate my thicknesses that would be required t
 
 ## Feature 2:
 
-The steps I took next was repeating the process for feature two and I followed the same process of laying out my knowns and unknowns with all of my values and drawing quick diagrams to show what it is that I am looking for. I did color code some of the values with highlighters but I ran out of highlighter colors so only some of them are highlighted. The difference from feature two is now that my value of Maximum stress is now known and will be directly used in the design of feature too as it carried over in the overall design. Some of the values of the length and the height were sourced from the specifications of the motor as found on its description found within the link.
+The steps I took next was repeating the process for feature two and I followed the same process of laying out my knowns and unknowns with all of my values and drawing quick diagrams to show what it is that I am looking for. I did color code some of the values with highlighters but I ran out of highlighter colors so only some of them are highlighted. The difference from feature two is now that my value of maximum stress is now known and will be directly used in the design of feature too as it carried over in the overall design. Some of the values of the length and the height were sourced from the specifications of the motor as found on its description found within the link.
 
 
  <img width="746" height="612" alt="image" src="https://github.com/user-attachments/assets/c8530f6f-69fe-4bef-aab2-7b6c75fde264" />
