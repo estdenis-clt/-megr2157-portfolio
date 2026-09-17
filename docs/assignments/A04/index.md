@@ -6,8 +6,17 @@ My objective for this assignment was to design a motor mount in order to fit a s
 
 [Motor](https://www.omc-stepperonline.com/brushed-24v-dc-gear-motor-3-6kg-cm-46rpm-w-99-5-1-planetary-gearbox-pa28-28245800-g100)
 
+<img width="160" height="160" alt="MOTOR PHOTO" src="https://github.com/user-attachments/assets/d364f6f6-247f-40d8-ab30-44574718be57" />
 
-IMG OF MOTOR
+
+<img width="1625" height="505" alt="unnamed" src="https://github.com/user-attachments/assets/dcf87e10-0a1d-400d-a318-f4ce0ef09dfa" />
+
+
+<img width="123" height="99" alt="download" src="https://github.com/user-attachments/assets/33a350f9-c9b9-481c-ad6f-6bf10b58824d" />
+
+
+<img width="194" height="151" alt="download" src="https://github.com/user-attachments/assets/ace7b216-6f27-4898-8228-6a6f2fad4950" />
+
 
 Before I could start designing the mount, I had to first understand what it was that we knew and what we did not know including the dimensions of the motor, the specific design requirements, and all data I would need for the first stages of the design process.
 
