@@ -104,7 +104,7 @@ To start with my cad file, I first started with drawing the base shape which is 
 <img width="470" height="598" alt="Screenshot 2026-09-16 195933" src="https://github.com/user-attachments/assets/416bf79b-a116-4c90-aea8-0064e6465178" />
 
 
-Now that I had created the correct base shape, I extruded it to the thickness of T1 which was the exact specification as shown in my isometric drawing and would still allow me to add on feature one with no geometric issues.
+Now that I had created the correct base shape, I extruded it to the thickness of T2 which was the exact specification as shown in my isometric drawing and would still allow me to add on feature one with no geometric issues.
 
 
 <img width="1782" height="717" alt="Screenshot 2026-09-16 170617" src="https://github.com/user-attachments/assets/899590f4-e657-43de-9dc8-9b1e09922def" />
