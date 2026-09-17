@@ -20,14 +20,17 @@ My objective for this assignment was to design a motor mount in order to fit a s
 
 Before I could start designing the mount, I had to first understand what it was that we knew and what we did not know including the dimensions of the motor, the specific design requirements, and all data I would need for the first stages of the design process.
 
-IMG OF KNOWNS/UNKNOWNS AND DIMENSIONS
+
+<img width="873" height="572" alt="image" src="https://github.com/user-attachments/assets/1e781668-6e1c-409d-b1e7-b2c5ae34c57e" />
+
 
 
 ## Material
 
 For the next part of this design process, I had to decide which material I was going to use. I ended up choosing pla due to its common usage and my personal experience with it from 3D printing in the past. It was then that I had to get all of the necessary data that I needed about PLA.
 
-IMG of material specification
+<img width="702" height="347" alt="image" src="https://github.com/user-attachments/assets/152fa736-3136-4af4-99b0-09994ac13ad1" />
+
 
 
 ## Feature 1:
@@ -35,26 +38,36 @@ IMG of material specification
 
 The Next Step was to design feature one and the best way to start this process was to figure out what future one was defined as and then listing my knowns and unknowns. A step that I struggled with was assembling all of the information I needed in my knowns and unknowns without leaving out any valuable information that would lead me stranded in the middle of my calculations. Furthermore, I needed to gather all of the formulas I would need in order to find the specifications for my motor mount design. It is important to point out that because I'm dealing with so many different variables and values, I color coded some of my needed values in order to be able to keep track with them in my calculations. 
 
- IMG of feature one knowns and unknowns
+
+<img width="883" height="527" alt="image" src="https://github.com/user-attachments/assets/557fe5db-ed5e-4149-a642-924efef528c6" />
+
 
 After that, I now had to do the calculations of the maximum stress that would be used throughout the designing process and would allow me to make a functioning product. In order to do this I had to draw a free body diagram and use Statics in order to find the moment about point A.
 
- IMG of Max stress calculation.
+
+<img width="888" height="502" alt="image" src="https://github.com/user-attachments/assets/467260c3-7f6c-48b8-8fd1-92cfeb21634b" />
+
+
 
 Then the next objective was to calculate my thicknesses that would be required through stress and then through the beam calculations to find the overall deflection and having to pick the highest number for my design. four feature one, the value that was given from the stress calculations was considerably higher at 6.866 mm and so that was the value that I chose for my design. After reflecting, I believe my number was higher than it should have been however I believe this is within the specifications and if anything is an overbuilt design that would allow for even higher stresses later on.
 
- IMG of stress and deflection calculation
+
+<img width="780" height="658" alt="image" src="https://github.com/user-attachments/assets/03d47040-19a8-4409-a326-dda6105afbe9" />
 
 
 ## Feature 2:
 
 The steps I took next was repeating the process for feature two and I followed the same process of laying out my knowns and unknowns with all of my values and drawing quick diagrams to show what it is that I am looking for. I did color code some of the values with highlighters but I ran out of highlighter colors so only some of them are highlighted. The difference from feature two is now that my value of Maximum stress is now known and will be directly used in the design of feature too as it carried over in the overall design. Some of the values of the length and the height were sourced from the specifications of the motor as found on its description found within the link.
 
- I am G of feature 2 knowns and unknowns
+
+ <img width="746" height="612" alt="image" src="https://github.com/user-attachments/assets/c8530f6f-69fe-4bef-aab2-7b6c75fde264" />
+
+
 
 The Next Step was to build a free body diagram for feature two using the values that I just assembled and to solve for the moment in order to find the value of M that will be used later in different calculations. I also labeled the legend to describe when I'm drawing the section of the bolt holes in my free body diagram. and in order to speed up the process. I then immediately did my stress and deflection calculations using all of the data I had found previously or calculated in earlier parts of the project.The values that I found was that once again my stress calculations yielded the higher value of thickness required at 2.017 mm and so that would be the value that I would use in my final design.
 
- I am G of feature two fbd 
+ 
+<img width="772" height="607" alt="image" src="https://github.com/user-attachments/assets/6c5a318a-1258-4c31-9bb6-f513cea9dc6a" />
 
 
 ## Motor Mount Design Examples:
@@ -69,7 +82,8 @@ The Next Step was to build a free body diagram for feature two using the values 
 
 I then decided I had enough info to create a basic idea of my design so I hand drew my design that was inspired by the real world examples while using my previously calculated values onto my isometric drawing in order to have a “blueprint” to go off of in my cad file.
 
- image of hand isometric drawing
+
+<img width="745" height="613" alt="image" src="https://github.com/user-attachments/assets/c47d04d6-b87a-4b01-b507-f5bd7472a85b" />
 
 
 ## Designing the Motor Mount in CAD:
