@@ -1,6 +1,6 @@
 # A4 – Motor Mount
 
-## Objective
+## Objective:
 
 My objective for this assignment was to design a motor mount in order to fit a specific make and model with a given set of values. These values that were provided were an applied force, a max deflection and the choice of what material we could use between ABS, PLA and PETG.This design was intended to mount to a wall and we are supposed to obtain two sets of directions one being obtained through stress calculations and the other through deflection through the usage of beam calculations. All of the specs for the motor used can be found in the following link.
 
@@ -25,7 +25,7 @@ Before I could start designing the mount, I had to first understand what it was 
 
 
 
-## Material
+## Material:
 
 For the next part of this design process, I had to decide which material I was going to use. I ended up choosing pla due to its common usage and my personal experience with it from 3D printing in the past. It was then that I had to get all of the necessary data that I needed about PLA.
 
@@ -134,11 +134,11 @@ As I am in MEGR 2157, we had an extra portion of this project we had to do. The 
 
 [Cad Drawing PDF](https://drive.google.com/file/d/1zYtGpBHpB_I4HC7vPlGN7qB_vPW_ufTi/view?usp=sharing)
 
-## Lessons Learned
+## Lessons Learned:
 
-Throughout this project, I learned many lessons that will help me be a better engineer. Perhaps the biggest lesson I learned was how to use the formulas we were taught through Theory and how to actually apply them in real world scenarios. This project really opened my eyes as to the purpose of why we are learning how to calculate all the given values and data without being told to. This project also taught me that engineering projects aren't always going to have very specific instructions on how to do things and that usually instructions will require some interpretation and some use of free will. The instructions that were given for this assignment did not encapsulate every single part and process that needed to be done in order to get from start to finish. Although some of the other assignments in the class have been like this, I found that this one had the most leeway and openness towards solving the given problem statement. Another very important lesson that I learned was that doing the math right the first time makes life a lot easier. I had originally done some math but mixed some of the variables around in the formula and then ended up getting entirely wrong numbers. I left out this math in my portfolio as it ended up turning into a confusing mess that ended up just restarting on. This leads me into my most helpful lesson that I learned, which was properly organizing and color-coding some of my variables. There were times where I was conflating multiple letters together and made my mistakes as mentioned and in order to get around that, I started highlighting certain variables I had a tendency to mess up so I could clearly track where these values were going.Another very important thing that I learned was the application of solid mechanics. As I am currently taking this class at the time of making this portfolio, it is extremely helpful to see how the things we're doing in that class can be applied in industry. This has been helpful because now it allows me to truly understand what it is that each of the questions are asking me for and allows me to better visualize the objective. 
+Throughout this project, I learned many lessons that will help me be a better engineer. Perhaps the biggest lesson I learned was how to use the formulas we were taught through theory and how to actually apply them in real world scenarios. This project really opened my eyes as to the purpose of why we are learning how to calculate all the given values and data without being told to. This project also taught me that engineering projects aren't always going to have very specific instructions on how to do things and that usually instructions will require some interpretation and some use of free will. The instructions that were given for this assignment did not encapsulate every single part and process that needed to be done in order to get from start to finish. Although some of the other assignments in the class have been like this, I found that this one had the most leeway and openness towards solving the given problem statement. Another very important lesson that I learned was that doing the math right the first time makes life a lot easier. I had originally done some math but mixed some of the variables around in the formula and then ended up getting entirely wrong numbers. I left out this math in my portfolio as it ended up turning into a confusing mess that ended up just restarting on. This leads me into my most helpful lesson that I learned, which was properly organizing and color-coding some of my variables. There were times where I was conflating multiple letters together and made my mistakes as mentioned and in order to get around that, I started highlighting certain variables I had a tendency to mess up so I could clearly track where these values were going. Another very important thing that I learned was the application of solid mechanics. As I am currently taking this class at the time of making this portfolio, it is extremely helpful to see how the things we're doing in that class can be applied in industry. This has been helpful because now it allows me to truly understand what it is that each of the questions are asking me for and allows me to better visualize the objective. 
 
 
-## Time Spent
+## Time Spent:
 
 This assignment took me about 5 hours
