@@ -36,7 +36,7 @@ For the next part of this design process, I had to decide which material I was g
 ## Feature 1:
 
 
-The Next Step was to design feature one and the best way to start this process was to figure out what future one was defined as and then listing my knowns and unknowns. A step that I struggled with was assembling all of the information I needed in my knowns and unknowns without leaving out any valuable information that would lead me stranded in the middle of my calculations. Furthermore, I needed to gather all of the formulas I would need in order to find the specifications for my motor mount design. It is important to point out that because I'm dealing with so many different variables and values, I color coded some of my needed values in order to be able to keep track with them in my calculations. 
+The next step was to design feature one and the best way to start this process was to figure out what future one was defined as and then listing my knowns and unknowns. A step that I struggled with was assembling all of the information I needed in my knowns and unknowns without leaving out any valuable information that would lead me stranded in the middle of my calculations. Furthermore, I needed to gather all of the formulas I would need in order to find the specifications for my motor mount design. It is important to point out that because I'm dealing with so many different variables and values, I color coded some of my needed values in order to be able to keep track with them in my calculations. 
 
 
 <img width="883" height="527" alt="image" src="https://github.com/user-attachments/assets/557fe5db-ed5e-4149-a642-924efef528c6" />
@@ -64,7 +64,7 @@ The steps I took next was repeating the process for feature two and I followed t
 
 
 
-The Next Step was to build a free body diagram for feature two using the values that I just assembled and to solve for the moment in order to find the value of M that will be used later in different calculations. I also labeled the legend to describe when I'm drawing the section of the bolt holes in my free body diagram. and in order to speed up the process. I then immediately did my stress and deflection calculations using all of the data I had found previously or calculated in earlier parts of the project.The values that I found was that once again my stress calculations yielded the higher value of thickness required at 2.017 mm and so that would be the value that I would use in my final design.
+The following step was to build a free body diagram for feature two using the values that I just assembled and to solve for the moment in order to find the value of M that will be used later in different calculations. I also labeled the legend to describe when I'm drawing the section of the bolt holes in my free body diagram. and in order to speed up the process. I then immediately did my stress and deflection calculations using all of the data I had found previously or calculated in earlier parts of the project.The values that I found was that once again my stress calculations yielded the higher value of thickness required at 2.017 mm and so that would be the value that I would use in my final design.
 
  
 <img width="772" height="607" alt="image" src="https://github.com/user-attachments/assets/6c5a318a-1258-4c31-9bb6-f513cea9dc6a" />
@@ -88,7 +88,7 @@ I then decided I had enough info to create a basic idea of my design so I hand d
 
 ## Designing the Motor Mount in CAD:
 
-The first step that I chose to go with was setting up parametric equations. as dealing with decimal values that are repeated throughout a design, things can fall through the cracks of accidentally typing the wrong value and it breaking the overall design and compromising the capabilities of the product. In order to prevent this, I use parametric equations within SolidWorks to assign values to my variables in order to make sure that every time I input a dimension, it was the correct value. 
+The first step that I chose to go with was setting up parametric equations to help the process go smoother. As I would be dealing with decimal values that are repeated throughout a design, things can fall through the cracks of accidentally typing the wrong value and it breaking the overall design and compromising the capabilities of the product. In order to prevent this, I use parametric equations within SolidWorks to assign values to my variables in order to make sure that every time I input a dimension, it was the correct value. 
 
 
 <img width="927" height="428" alt="Screenshot 2026-09-16 195830" src="https://github.com/user-attachments/assets/69c11696-81b9-4105-84c6-484721d021e9" />
