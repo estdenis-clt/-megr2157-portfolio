@@ -91,30 +91,40 @@ I then decided I had enough info to create a basic idea of my design so I hand d
 The first step that I chose to go with was setting up parametric equations. as dealing with decimal values that are repeated throughout a design, things can fall through the cracks of accidentally typing the wrong value and it breaking the overall design and compromising the capabilities of the product. In order to prevent this, I use parametric equations within SolidWorks to assign values to my variables in order to make sure that every time I input a dimension, it was the correct value. 
 
 
-img of parametric equ
+<img width="927" height="428" alt="Screenshot 2026-09-16 195830" src="https://github.com/user-attachments/assets/69c11696-81b9-4105-84c6-484721d021e9" />
+
+
 
 To start with my cad file, I first started with drawing the base shape which is a rectangle with the values of 22mm x 27mm which would be the overall size of feature 2 and thought it would allow me to design feature one onto the base sketch.However, I had quickly realized that that would not work because it would affect my overall dimensions. so I quickly resolve this by setting my values to have the dimension being 22 mm x 36 mm as shown in the photos below.
 
 
-img of both base shape in cad
+<img width="1745" height="605" alt="Screenshot 2026-09-16 170729" src="https://github.com/user-attachments/assets/5dcd0192-d436-4625-a7c2-91b51ee5c60f" />
+
+
+<img width="470" height="598" alt="Screenshot 2026-09-16 195933" src="https://github.com/user-attachments/assets/416bf79b-a116-4c90-aea8-0064e6465178" />
 
 
 Now that I had created the correct base shape, I extruded it to the thickness of T1 which was the exact specification as shown in my isometric drawing and would still allow me to add on feature one with no geometric issues.
 
-img of base shape extrude
+
+<img width="1782" height="717" alt="Screenshot 2026-09-16 170617" src="https://github.com/user-attachments/assets/899590f4-e657-43de-9dc8-9b1e09922def" />
 
 
 Next, I created the sketch and Extrusion of feature 2 following a similar process but this time it was faster due to having the correct values the first time. The next step at this point was to add the holes that needed to be created for the bolts, the motor shaft, and part of the motor's body in order to properly hold  the motor in place.This process then brought me to my final CAD design with all of the dimensions and whole set correctly, I was able to now view my final design.
 
 
-IMG of final cad screenshots
+<img width="1907" height="807" alt="Screenshot 2026-09-16 172847" src="https://github.com/user-attachments/assets/f7afcb7c-d7ef-4a18-b066-1f42057ecf3d" />
+
+
+<img width="712" height="526" alt="Screenshot 2026-09-16 172944" src="https://github.com/user-attachments/assets/d7af401e-e701-4594-aa0f-563e75d8b54c" />
 
 
 ## For 2157 Students Only
 
 OBJ of this
 
-SCREENSHOT of Drawing
+
+<img width="1022" height="723" alt="Screenshot 2026-09-16 175131" src="https://github.com/user-attachments/assets/36157e1c-3d82-489f-b127-e18413c212f9" />
 
 
 ## CAD and CAD drawing files:
