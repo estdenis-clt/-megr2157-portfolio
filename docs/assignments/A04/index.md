@@ -121,7 +121,8 @@ Next, I created the sketch and Extrusion of feature 2 following a similar proces
 
 ## For 2157 Students Only
 
-OBJ of this
+
+As I am in MEGR 2157, we had an extra portion of this project we had to do. The extra portion we had to do was to create a drawing from our CAD part with dimensions and a third angle projection. I was also very careful to make sure that all hidden lines were shown so that anyone looking at this CAD drawing could understand how this part could be made and how it was designed. 
 
 
 <img width="1022" height="723" alt="Screenshot 2026-09-16 175131" src="https://github.com/user-attachments/assets/36157e1c-3d82-489f-b127-e18413c212f9" />
@@ -135,6 +136,7 @@ OBJ of this
 
 ## Lessons Learned
 
+Throughout this project, I learned many lessons that will help me be a better engineer. Perhaps the biggest lesson I learned was how to use the formulas we were taught through Theory and how to actually apply them in real world scenarios. This project really opened my eyes as to the purpose of why we are learning how to calculate all the given values and data without being told to. This project also taught me that engineering projects aren't always going to have very specific instructions on how to do things and that usually instructions will require some interpretation and some use of free will. The instructions that were given for this assignment did not encapsulate every single part and process that needed to be done in order to get from start to finish. Although some of the other assignments in the class have been like this, I found that this one had the most leeway and openness towards solving the given problem statement. Another very important lesson that I learned was that doing the math right the first time makes life a lot easier. I had originally done some math but mixed some of the variables around in the formula and then ended up getting entirely wrong numbers. I left out this math in my portfolio as it ended up turning into a confusing mess that ended up just restarting on. This leads me into my most helpful lesson that I learned, which was properly organizing and color-coding some of my variables. There were times where I was conflating multiple letters together and made my mistakes as mentioned and in order to get around that, I started highlighting certain variables I had a tendency to mess up so I could clearly track where these values were going.Another very important thing that I learned was the application of solid mechanics. As I am currently taking this class at the time of making this portfolio, it is extremely helpful to see how the things we're doing in that class can be applied in industry. This has been helpful because now it allows me to truly understand what it is that each of the questions are asking me for and allows me to better visualize the objective. 
 
 
 ## Time Spent
