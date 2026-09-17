@@ -4,7 +4,7 @@
 
 My objective for this assignment was to design a motor mount in order to fit a specific make and model with a given set of values. These values that were provided were an applied force, a max deflection and the choice of what material we could use between ABS, PLA and PETG.This design was intended to mount to a wall and we are supposed to obtain two sets of directions one being obtained through stress calculations and the other through deflection through the usage of beam calculations. All of the specs for the motor used can be found in the following link.
 
-[Motor]([https://drive.google.com/file/d/1yUNAKTKqtENBTMUDxyVB3w1q5fRr68ok/view?usp=sharing](https://www.omc-stepperonline.com/brushed-24v-dc-gear-motor-3-6kg-cm-46rpm-w-99-5-1-planetary-gearbox-pa28-28245800-g100))
+[Motor](https://www.omc-stepperonline.com/brushed-24v-dc-gear-motor-3-6kg-cm-46rpm-w-99-5-1-planetary-gearbox-pa28-28245800-g100)
 
 
 IMG OF MOTOR
@@ -96,7 +96,7 @@ SCREENSHOT of Drawing
 
 ## CAD and CAD drawing files:
 
-[CAD file prt]([https://precisionminidrives.com/product/775-dc-gear-motor-mounting-bracket-motor-support?srsltid=AfmBOopDAGQu6ZGF1moe9sg8FswtrIbcBz8fo9UzMAghPeHabTPO0Obzm_w](https://drive.google.com/file/d/1vM9VJzkDtmBzuUNNXA8B0ROEej74tE4E/view?usp=sharing))
+[CAD file prt](https://drive.google.com/file/d/1vM9VJzkDtmBzuUNNXA8B0ROEej74tE4E/view?usp=sharing)
 
 [Cad Drawing PDF](https://drive.google.com/file/d/1zYtGpBHpB_I4HC7vPlGN7qB_vPW_ufTi/view?usp=sharing)
 
