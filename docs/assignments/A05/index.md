@@ -115,21 +115,20 @@ One assumption that I made that I would change if doing this again would be rela
 
 ## 2157 Students Section (Fits)
 
-### 1. 
+1. 
 
 <img width="570" height="616" alt="image" src="https://github.com/user-attachments/assets/732ca249-ccfc-43c9-b837-e5880f09304b" />
 
 
-### 2. 
+2. 
 
-#### a.
-
-All of the values and charts used in the section were sourced from the machinery’s handbook focused on a running/slide fit. Given all of the information and data I have from the previous sections of this project, I believe I'm going to go with a rc 4 fit with the tolerances sourced from hole h8. All of this information can be found in the charts of the book which I have attached. Specifically, these charts were found on page 645. 
+a. All of the values and charts used in the section were sourced from the machinery’s handbook focused on a running/slide fit. Given all of the information and data I have from the previous sections of this project, I believe I'm going to go with a rc 4 fit with the tolerances sourced from hole h8. All of this information can be found in the charts of the book which I have attached. Specifically, these charts were found on page 645. 
 
 
 <img width="277" height="675" alt="image" src="https://github.com/user-attachments/assets/ab3ad143-b38f-47e1-9012-a0e44f616fec" />
 
-#### b.
+
+b.
 
 
 <img width="446" height="427" alt="image" src="https://github.com/user-attachments/assets/2298fb59-fdc9-4c1f-a566-89512c66777c" />
@@ -138,15 +137,15 @@ All of the values and charts used in the section were sourced from the machinery
 For this process I'm going to choose reaming due to its incredible ability of holding really tight tolerances and properly rounding out holes. 
 
 
-### 3. 
+3. 
 
 
-For the shaft with the length of 1 in, I am choosing the fn 1 class fit as it seems to work best in this situation
+a. For the shaft with the length of 1 in, I am choosing the fn 1 class fit as it seems to work best in this situation
 
 
 <img width="450" height="415" alt="image" src="https://github.com/user-attachments/assets/503230e6-0a72-4c8c-9a80-745cd7d53b5e" />
 
 
-For the specific purpose the manufacturing process I'm going to choose will be reaming due to the fact that it can achieve incredible tolerances such as 1/10 of a thousandth of an inch which is well within the specs that we would need for a project such as this. 
+b. For the specific purpose the manufacturing process I'm going to choose will be reaming due to the fact that it can achieve incredible tolerances such as 1/10 of a thousandth of an inch which is well within the specs that we would need for a project such as this. 
 
 
