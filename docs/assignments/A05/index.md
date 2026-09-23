@@ -140,7 +140,7 @@ For this process I'm going to choose reaming due to its incredible ability of ho
 3. 
 
 
-a. For the shaft with the length of 1 in, I am choosing the fn 1 class fit as it seems to work best in this situation
+a. For the shaft with the length of 1 in, I am choosing the FN 1 class fit as it seems to work best in this situation
 
 
 <img width="450" height="415" alt="image" src="https://github.com/user-attachments/assets/503230e6-0a72-4c8c-9a80-745cd7d53b5e" />
