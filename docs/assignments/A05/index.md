@@ -2,7 +2,7 @@
 
 ## Objective
 
-The objective for this project was to go through the whole design process including analyzing the normal stress, bending stress as well as some stiffness equations with givens that we have to go and find to properly calculate the dimensions. in order to properly design a component. this assignment would require both skills from statics and solids in order to ensure the proper design mathematically but then we had to draw up the design with the dimensions for the features.
+The objective for this project was to go through the whole design process including analyzing the normal stress, bending stress as well as some stiffness equations with givens that we have to go and find to properly calculate the dimensions. This assignment would require both skills from statics and solids in order to ensure the proper design mathematically but then we had to draw up the design with the dimensions for the features.
 
 
 ## Intial Design
@@ -31,7 +31,9 @@ Elastic modulus: 29,000,000 Psi
 
 The first problem to approach within the analysis of this feature was to list my knowns and unknowns as well as drawing a free body diagram. This allows me to see what I have and what I don't so I can better use the information I have to find my dimensions.
 
+
 <img width="863" height="627" alt="image" src="https://github.com/user-attachments/assets/0fdee165-7e00-49bf-92b3-0451430d8b7a" />
+
 
 Since I now had all of the values I needed to go approach the math, I went ahead and solved for my dimensions for Feature A and tested it through the stress and stiffness calculations. 
 
@@ -42,11 +44,11 @@ Since I now had all of the values I needed to go approach the math, I went ahead
 <img width="913" height="515" alt="image" src="https://github.com/user-attachments/assets/153ab9a6-2aef-4c9a-a13b-8bf3a5c841e6" />
 
 
-
 Now that I have been given the raw values, the next decision I had to make was which value I would go with. I decided to go with the higher value and that was the value that came from the stress calculations which came out to be Just under an inch and so for safety purposes I rounded it up to the nearest whole number. This is because I will prefer my components to be overly built because in my opinion overkill is just barely sufficient in designing components. 
 
 
 ## Feature B
+
 
 Moving on to feature B I had to follow a similar process in terms of analyzing and calculating but this time it was on a bar that we have to act as if it's axially loaded. I then used the values I had been previously given or calculated in order to find my next values. 
 
@@ -66,6 +68,7 @@ After doing the calculations, I found that in this instance, the value that came
 
 
 ## Feature C
+
 
 I must now repeat the same process of analysis, calculations and conclusions for the rest of the features of this component.
 
@@ -99,7 +102,9 @@ I must now repeat the same process of analysis, calculations and conclusions for
 
 ## Lessons Learned
 
+
 Throughout this project, there were many lessons to be learned primarily revolving around the application of theories. I have taken statics in the past and I am currently in solid mechanics and this project has been a stark reminder that the processes for every theory and formula has to be done in the right process or values will be wrong. I experienced this problem as on other pieces of paper that I did not upload I skipped some steps on my math and got some massively wrong values setting me back quite a bit of time. Another lesson to learn is that it's important to check that all of your values work cohesively because if they do not then the design won't work. This was something that I had to keep in mind and had to keep referring to when going through this project. Luckily, there is a benefit for this assignment beyond the obvious answer being the practice of designing a component. This assignment has been able to help me understand all of the processes and formulas that will be used in the midterm for this course as well as the midterms of my numerous other courses that all go over similar topics. 
+
 
 ## Governing failure mode:
 
@@ -117,10 +122,12 @@ One assumption that I made that I would change if doing this again would be rela
 
 1. 
 
+
 <img width="570" height="616" alt="image" src="https://github.com/user-attachments/assets/732ca249-ccfc-43c9-b837-e5880f09304b" />
 
 
 2. 
+
 
 a. All of the values and charts used in the section were sourced from the machinery’s handbook focused on a running/slide fit. Given all of the information and data I have from the previous sections of this project, I believe I'm going to go with a rc 4 fit with the tolerances sourced from hole h8. All of this information can be found in the charts of the book which I have attached. Specifically, these charts were found on page 645. 
 
