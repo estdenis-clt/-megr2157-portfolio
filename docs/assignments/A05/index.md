@@ -2,7 +2,7 @@
 
 ## Objective
 
-The objective for this project was to go through the whole design process including analyzing the normal stress, bending stress as well as some stiffness equations with givens that we have to go and find to properly calculate the dimensions. in order to properly design a component. this assignment would require both skills from statics and solids in order to ensure the proper Not only do we have to design it mathematically but then we had to draw up the design with the dimensions for the features.
+The objective for this project was to go through the whole design process including analyzing the normal stress, bending stress as well as some stiffness equations with givens that we have to go and find to properly calculate the dimensions. in order to properly design a component. this assignment would require both skills from statics and solids in order to ensure the proper design mathematically but then we had to draw up the design with the dimensions for the features.
 
 
 ## Intial Design
