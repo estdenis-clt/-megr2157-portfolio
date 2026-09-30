@@ -1,6 +1,8 @@
 # A6 – Bracket Drawing
 
+
 ## Objective
+
 
 The objective of this assignment was to create a cad model based upon the workings and calculations that we found in the previous assignment as well as a drawing for the accompanying link. Our design had to fit within the boundary set of strength and stiffness that were calculated previously.
 
@@ -58,18 +60,31 @@ Due to the fact that this part requires a certain amount of precision, a toleran
 
 ## 3. Reflection
 
+
 a) In the process of calculating all of my values I primarily used the stress calculations to find the lengths, widths and thicknesses of the dimensions for features 1 through 5.In the cab these were represented by the variables labeled L, W, and T with its accompanying number that corresponds to the feature. 
 
 b) When designing the piece, I put a very specific tolerance on it which was Datum A that was on the very tight side and I had a looser tolerance at datum B Because this tolerance is less important for the overall fit of the part. The reason I did it this way was to allow leniency in the manufacturing process and make it so these parts can be produced faster and cheaper if this was to go into production.Additionally, the tolerances on datum B if they were to the same spec as the other one, it would bring feasibility into the conversation such a tolerance and its location is extremely difficult to achieve in such a product without compromising the cost to value ratio. 
 
 
-
-
 ## 2157 Students
 
 
+As I am a 2157 student, I was assigned extra work and in the case of this project the accompanying link needed to be designed. This meant designing the link that has the definitions to interlock with the brackets such as the diameter in order to allow the two parts to form an assembly. We were then also assigned to make another drawing to go with it.The first thing we had to do was to create a parametric table with parametric equations showing all the values and how they interact with the overall design. Then the cad must be created and then translate that onto a drawing with full dimensions.
 
 
-[CAD Drawing PDF](https://github.com/user-attachments/files/32876583/A6_DrawingPDF.PDF)
+<img width="1076" height="438" alt="Screenshot 2026-09-30 171348" src="https://github.com/user-attachments/assets/9880cd89-abbb-4d28-9d65-5263edf4ddfa" />
 
-[Cad file prt](https://drive.google.com/file/d/1xmwxRz7xjK6PYg8DB0dST9XkevIsMvUI/view?usp=sharing)
+
+<img width="1606" height="766" alt="Screenshot 2026-09-30 171421" src="https://github.com/user-attachments/assets/5503d21f-1eb8-4bf8-917b-2781ff346f67" />
+
+
+<img width="1162" height="750" alt="Screenshot 2026-09-30 171916" src="https://github.com/user-attachments/assets/514d87b6-b712-4c6f-a0ea-7afb92f162e5" />
+
+
+[Bracket CAD Drawing PDF](https://github.com/user-attachments/files/32876583/A6_DrawingPDF.PDF)
+
+[Bracket CAD file PRT](https://drive.google.com/file/d/1xmwxRz7xjK6PYg8DB0dST9XkevIsMvUI/view?usp=sharing)
+
+[Link CAD Drawing PDF](https://github.com/user-attachments/files/32877755/2.pdf)
+
+[Link CAD file PRT](https://drive.google.com/file/d/1toSL-CgCC96VRmNF6tSyjfT_ZI21IQpQ/view?usp=sharing)
