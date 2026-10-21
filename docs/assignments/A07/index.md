@@ -189,11 +189,66 @@ After three sets of design and ideas, I have come to the conclusion that althoug
 As I am a 2157 student, we were additionally tasked to perform an FEA on the link that accompanies the bracket from the previous project. So as I did last time, I'm going to continue to do this same process of creating a finer and finer simulation on this CAD piece.
 
 
+<img width="881" height="487" alt="Screenshot 2026-10-21 192754" src="https://github.com/user-attachments/assets/4f1815ca-8c53-45a2-9361-3bdb8ebad9b9" />
+
+
+<img width="1208" height="605" alt="Screenshot 2026-10-21 193209" src="https://github.com/user-attachments/assets/600b3a47-b747-4f32-93f1-774dc74f9148" />
+
+
+<img width="1222" height="627" alt="Screenshot 2026-10-21 193203" src="https://github.com/user-attachments/assets/226ca869-8433-4805-9bbf-4f3cfdb741de" />
+
+
+<img width="1232" height="696" alt="Screenshot 2026-10-21 193159" src="https://github.com/user-attachments/assets/5e3b2157-70ed-4311-a0b4-9f7f04a0b6e2" />
+
+
+<img width="961" height="480" alt="Screenshot 2026-10-21 193147" src="https://github.com/user-attachments/assets/69134af5-57b4-415b-a661-9bf5a7d963d1" />
+
+
+<img width="1917" height="726" alt="Screenshot 2026-10-21 192941" src="https://github.com/user-attachments/assets/28b2354c-82da-4408-8863-24117b7f8486" />
+
+
+<img width="1211" height="628" alt="Screenshot 2026-10-21 193219" src="https://github.com/user-attachments/assets/2e72a23b-00dc-4997-9054-1e23f333d2d1" />
+
+
+<img width="1117" height="577" alt="Screenshot 2026-10-21 193758" src="https://github.com/user-attachments/assets/6110a701-ad5d-4dc1-9344-9a4c81e1f479" />
+
+
+<img width="1120" height="587" alt="Screenshot 2026-10-21 193754" src="https://github.com/user-attachments/assets/bdbb4cd0-d39d-4e50-b24c-acf2dbae1c32" />
+
+
+<img width="1167" height="681" alt="Screenshot 2026-10-21 193748" src="https://github.com/user-attachments/assets/649da2ed-0e21-4475-b273-4498b727ef41" />
+
+
+<img width="608" height="492" alt="Screenshot 2026-10-21 193741" src="https://github.com/user-attachments/assets/a4119ed0-6c6a-4936-93b5-41f6747b1068" />
+
+
+<img width="1232" height="512" alt="Screenshot 2026-10-21 193543" src="https://github.com/user-attachments/assets/4e685d8a-dcd9-4e0e-8e99-ef74a1fdeb29" />
+
+
+<img width="1103" height="555" alt="Screenshot 2026-10-21 193539" src="https://github.com/user-attachments/assets/a872459e-0386-4fe8-95b9-92d32258199a" />
+
+
+<img width="1183" height="668" alt="Screenshot 2026-10-21 193535" src="https://github.com/user-attachments/assets/7dc007e2-0aef-428c-ac73-e490296fddd3" />
+
+
+<img width="795" height="467" alt="Screenshot 2026-10-21 193525" src="https://github.com/user-attachments/assets/11491eb3-5aac-4f5f-814e-bc6f670e81bb" />
+
+
+<img width="1132" height="575" alt="Screenshot 2026-10-21 193808" src="https://github.com/user-attachments/assets/46b10a7f-1a5a-467d-bc12-b747a3cbc754" />
+
+
+<img width="790" height="170" alt="Screenshot 2026-10-21 194052" src="https://github.com/user-attachments/assets/230d1066-8f46-4c30-8f0c-12507db4e549" />
+
+
+## Link Reflection
+
+After looking over the simulations for the link,It was highly expected that a piece of material taking that much force in such a small object would obviously deform it but I was left confused as to what could be improved on this because it did not suffer as much deformation as I expected it to do. This may have to do with the way it was designed with radiuses and its length to thickness ratio but nonetheless, it did surprisingly well. I think that a suitable upgrade to it  would be obviously thickening it as well as having the bracket support the link more effectively so less load is distributed on the link preventing catastrophic levels of deformation. 
+
 
 
 ## Communicate
 
-[Bracket CAD file PRT](https://drive.google.com/file/d/1xmwxRz7xjK6PYg8DB0dST9XkevIsMvUI/view?usp=sharing)
+[Bracket CAD file PRT](https://drive.google.com/file/d/1cxXJ0WOyvw5H4WOSh8-LoeXcfFTnBokY/view?usp=sharing)
 
 
-[Link CAD file PRT](https://drive.google.com/file/d/1toSL-CgCC96VRmNF6tSyjfT_ZI21IQpQ/view?usp=sharing)
+[Link CAD file PRT](https://drive.google.com/file/d/1LOUmwl15q-MRAINotFSUhtDYvbtJo5Et/view?usp=sharing)
