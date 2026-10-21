@@ -1,8 +1,3 @@
-<img width="1040" height="665" alt="Screenshot 2026-10-21 170348" src="https://github.com/user-attachments/assets/4b0bc6bd-6747-4a2a-a43b-4e91ddd81ded" />
-<img width="1137" height="677" alt="Screenshot 2026-10-21 170342" src="https://github.com/user-attachments/assets/827b5983-6d72-47b2-b947-2b776cd7b73d" />
-<img width="1147" height="673" alt="Screenshot 2026-10-21 170335" src="https://github.com/user-attachments/assets/c175574a-2b60-4c22-b0de-371bccf3742a" />
-<img width="832" height="595" alt="Screenshot 2026-10-21 170331" src="https://github.com/user-attachments/assets/a5b1a77a-687a-4e8a-b72f-c934e2e8ac9f" />
-<img width="1081" height="642" alt="Screenshot 2026-10-21 170403" src="https://github.com/user-attachments/assets/8aa99671-ac5a-41a6-bdf3-b6e9ffb1f97f" />
 # A7: FEA on Bracket
 
 ## Objective
