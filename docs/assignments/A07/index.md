@@ -1,3 +1,8 @@
+<img width="1040" height="665" alt="Screenshot 2026-10-21 170348" src="https://github.com/user-attachments/assets/4b0bc6bd-6747-4a2a-a43b-4e91ddd81ded" />
+<img width="1137" height="677" alt="Screenshot 2026-10-21 170342" src="https://github.com/user-attachments/assets/827b5983-6d72-47b2-b947-2b776cd7b73d" />
+<img width="1147" height="673" alt="Screenshot 2026-10-21 170335" src="https://github.com/user-attachments/assets/c175574a-2b60-4c22-b0de-371bccf3742a" />
+<img width="832" height="595" alt="Screenshot 2026-10-21 170331" src="https://github.com/user-attachments/assets/a5b1a77a-687a-4e8a-b72f-c934e2e8ac9f" />
+<img width="1081" height="642" alt="Screenshot 2026-10-21 170403" src="https://github.com/user-attachments/assets/8aa99671-ac5a-41a6-bdf3-b6e9ffb1f97f" />
 # A7: FEA on Bracket
 
 ## Objective
@@ -79,6 +84,111 @@ And I will now repeat the process of the simulations for this design.
 
 
 <img width="790" height="167" alt="image" src="https://github.com/user-attachments/assets/01336f1c-1190-41fe-b3bd-c14f5315fce1" />
+
+
+<img width="1081" height="642" alt="Screenshot 2026-10-21 170403" src="https://github.com/user-attachments/assets/a979b0a0-a760-4bcc-9a3a-adb9d245144a" />
+
+
+<img width="1040" height="665" alt="Screenshot 2026-10-21 170348" src="https://github.com/user-attachments/assets/361cf049-186b-4885-b4d8-4c0b65a285d0" />
+
+
+<img width="1137" height="677" alt="Screenshot 2026-10-21 170342" src="https://github.com/user-attachments/assets/9644b342-9228-4ea1-928b-734df750cd60" />
+
+
+<img width="1147" height="673" alt="Screenshot 2026-10-21 170335" src="https://github.com/user-attachments/assets/5ea92f54-47c7-4682-948f-a9648dcdac0c" />
+
+
+<img width="832" height="595" alt="Screenshot 2026-10-21 170331" src="https://github.com/user-attachments/assets/de6a60f0-73dd-4a31-81b2-460b022772e7" />
+
+
+<img width="1120" height="607" alt="Screenshot 2026-10-21 170703" src="https://github.com/user-attachments/assets/de28f65b-c183-44eb-9efa-9954657c6a5a" />
+
+
+<img width="1113" height="641" alt="Screenshot 2026-10-21 170656" src="https://github.com/user-attachments/assets/aefc366b-104e-4be0-8992-6a85e845c9ae" />
+
+
+<img width="1157" height="647" alt="Screenshot 2026-10-21 170647" src="https://github.com/user-attachments/assets/959da267-7ef4-4643-9698-b03d0ae51d4e" />
+
+
+<img width="485" height="572" alt="Screenshot 2026-10-21 170631" src="https://github.com/user-attachments/assets/60e3a8a3-b91e-4cfd-bc78-94a107b799de" />
+
+
+<img width="1088" height="652" alt="Screenshot 2026-10-21 170717" src="https://github.com/user-attachments/assets/4be19e82-d26c-4262-a72f-d3bcf1700a5b" />
+
+
+<img width="787" height="166" alt="image" src="https://github.com/user-attachments/assets/cab04c16-d1e7-42b1-be12-3743faaea669" />
+
+## Design 3
+
+
+After reviewing the second design feat, I realized that it needed more support perpendicular to the axis in order to be able to have the load split to reduce the amount of bending on the shaft. I did this by adding a wall that was snugly between the two new trusses and having it go down to the shaft in order to create a strong connection.
+
+
+<img width="457" height="507" alt="Screenshot 2026-10-21 170947" src="https://github.com/user-attachments/assets/a3ca83e9-151e-4f5e-a656-eba6c604ba04" />
+
+
+Now that I have created my third and final design, I am now going to run it with the same process of three simulations with a gradually more precise mesh.
+
+
+<img width="491" height="517" alt="Screenshot 2026-10-21 171058" src="https://github.com/user-attachments/assets/da154725-0497-443f-b92d-f514b39b223a" />
+
+
+<img width="1170" height="646" alt="Screenshot 2026-10-21 171559" src="https://github.com/user-attachments/assets/278857b3-57ca-4027-916a-e3f0eb14470d" />
+
+
+<img width="1065" height="563" alt="Screenshot 2026-10-21 171547" src="https://github.com/user-attachments/assets/4f21c06b-2ff0-44b6-bf35-305cfc28a69c" />
+
+
+<img width="1105" height="657" alt="Screenshot 2026-10-21 171540" src="https://github.com/user-attachments/assets/3fdc37b9-4bf2-4838-88fa-b55c2569895a" />
+
+
+<img width="526" height="497" alt="Screenshot 2026-10-21 171526" src="https://github.com/user-attachments/assets/23569db8-2fd4-4587-87f8-0b48dd255039" />
+
+
+<img width="1087" height="612" alt="Screenshot 2026-10-21 171206" src="https://github.com/user-attachments/assets/85150e01-daf8-4b99-b779-c2b22310e6cd" />
+
+
+<img width="1152" height="623" alt="Screenshot 2026-10-21 171154" src="https://github.com/user-attachments/assets/d13f15eb-3ad9-4985-bb98-28e02af4f573" />
+
+
+<img width="1180" height="592" alt="Screenshot 2026-10-21 171122" src="https://github.com/user-attachments/assets/a2c62258-8806-4aeb-9ffb-b2163a184e0d" />
+
+
+<img width="1116" height="608" alt="Screenshot 2026-10-21 171114" src="https://github.com/user-attachments/assets/94d787a8-2bf9-4510-a571-ed2e96c027d9" />
+
+
+<img width="491" height="517" alt="Screenshot 2026-10-21 171058" src="https://github.com/user-attachments/assets/15c21466-7ad1-48fc-af70-005e3c311d1a" />
+
+
+<img width="1188" height="606" alt="Screenshot 2026-10-21 171846" src="https://github.com/user-attachments/assets/0d3625c3-4b46-4e90-93f7-89bf60e55f0e" />
+
+
+<img width="1148" height="621" alt="Screenshot 2026-10-21 171839" src="https://github.com/user-attachments/assets/8971a288-69fa-40f2-bc7e-5c27244723a1" />
+
+
+<img width="1150" height="606" alt="Screenshot 2026-10-21 171823" src="https://github.com/user-attachments/assets/175d9e78-0146-4a41-88d6-9a722ad55b06" />
+
+
+<img width="1128" height="632" alt="Screenshot 2026-10-21 171818" src="https://github.com/user-attachments/assets/8c776bfc-b5cd-4d43-bba1-0a376f681371" />
+
+
+<img width="550" height="547" alt="Screenshot 2026-10-21 171757" src="https://github.com/user-attachments/assets/45300a1d-9027-4bbe-8eea-7ed233f36ccb" />
+
+
+<img width="792" height="173" alt="image" src="https://github.com/user-attachments/assets/8b695040-a742-45f8-a5e1-9b7a3b42e848" />
+
+
+## Reflections
+
+After three sets of design and ideas, I have come to the conclusion that although my design is better there is plenty of room to improve. The biggest problem that I was experiencing was that thin walls at the top started to buckle with more and more force. Luckily within the circumstances of this project that buckling would end up interfering with the part that would be attached although it would create some interference fit issues. The simplest way to resolve this problem would be adding additional wall space and we're going to make it thicker and stronger in order to spread the load out with more material and improve the overall strength of that feature. Additionally, a lot of very low stress area was shown on the part which means that there is place for optimization such as reduction in material by drilling out holes. These holes could be like weathering an intricate hex pattern or an oval-shaped through hole that would allow lighter weight and less material in the product.
+
+
+## 2157 Section
+
+
+As I am a 2157 student, we were additionally tasked to perform an FEA on the link that accompanies the bracket from the previous project. So as I did last time, I'm going to continue to do this same process of creating a finer and finer simulation on this CAD piece.
+
+
 
 
 ## Communicate
