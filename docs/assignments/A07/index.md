@@ -38,6 +38,8 @@ The next part that had to be done was adding a mesh to the cad in order to get a
 Now that I had done the initial setup for study, the objective was now to run the simulation multiple times. The way that I did this was running my first study with a moderately course mesh and then running the simulation two more times each with a finer and finer mesh. I then recorded down all of the values and a table along with the accompanying screenshots.
 
 
+## Design 1
+
 <img width="1145" height="693" alt="Screenshot 2026-10-21 164240" src="https://github.com/user-attachments/assets/da0a0caa-27ad-422d-8ce3-c6b5d09041dd" />
 
 
