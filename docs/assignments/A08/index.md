@@ -74,7 +74,8 @@ Images of all the different CAD pieces
 In order to precisely ensure that all of my values are exactly how I calculated them, I used a set of parameters which can be seen in the following image. Additionally, this makes it better when changing this design because I can just change the global variables and it will make it far faster to scale or scale this project. 
 
 
-Image of parameter table
+<img width="1576" height="765" alt="image" src="https://github.com/user-attachments/assets/2883e243-3622-4855-acf9-84fb0bcada4d" />
+
 
 
 
