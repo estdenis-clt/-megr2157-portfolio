@@ -71,6 +71,19 @@ It was at this point that I now had everything I needed to do to translate my id
 Images of all the different CAD pieces
 
 
+<img width="573" height="457" alt="image" src="https://github.com/user-attachments/assets/c84849e4-06c8-4247-979e-4067dff29932" />
+
+
+<img width="588" height="438" alt="image" src="https://github.com/user-attachments/assets/3f65d68a-78a4-43b3-afc1-3171f1e1543d" />
+
+
+<img width="445" height="432" alt="image" src="https://github.com/user-attachments/assets/70bf2ef7-7743-46df-9ba9-fd880a14f28c" />
+
+
+<img width="722" height="550" alt="image" src="https://github.com/user-attachments/assets/c70771a0-09b8-42cf-ace5-1fb1bb24653b" />
+
+
+
 In order to precisely ensure that all of my values are exactly how I calculated them, I used a set of parameters which can be seen in the following image. Additionally, this makes it better when changing this design because I can just change the global variables and it will make it far faster to scale or scale this project. 
 
 
@@ -84,13 +97,14 @@ In order to precisely ensure that all of my values are exactly how I calculated 
 
 Because I started with the shafts and bearings, I'm not able to move on to the actual gearbox housing in order to secure all the pieces. I started with a regular rectangular prism and then made a large Center cut that went the majority of the way through, added holes in the back for the shafts and added in the holes for the bolts.
 
-Image of the gearbox housing
+
+<img width="660" height="472" alt="image" src="https://github.com/user-attachments/assets/f478701d-d4ec-49fe-b76b-7e0753cdfd0b" />
 
 
 In order to properly seal this gearbox, allowing it to be one solid housing, I created a simple plate that was a quarter inch thick with an accompanying six holes for the bolts that I had added.
 
 
-Image of gearbox cover. 
+<img width="778" height="487" alt="image" src="https://github.com/user-attachments/assets/c77f356c-4fca-4a19-bcbb-368c33a5550a" />
 
 
 ## Final assembly
