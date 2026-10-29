@@ -113,15 +113,41 @@ In order to properly seal this gearbox, allowing it to be one solid housing, I c
 Now that I had created all the parts and downloaded all of the gears that I will need, I then combined everything into the final assembly and made sure everything fit properly. I had to make a few adjustments with the placement of the holes for the output shaft but for the most part it was good to go from the first iteration.
 
 
-image of final assembly
+<img width="846" height="472" alt="image" src="https://github.com/user-attachments/assets/70fc4d37-5f90-427d-82ec-56046b914ebd" />
 
 
-image of open Final assembly
+
+<img width="611" height="478" alt="image" src="https://github.com/user-attachments/assets/1d906323-35a9-465f-8402-83677143811a" />
 
 
-image of transparent assembly
+
 
 
 ##  Lessons Learned
 
 
+Looking at this project holistically, I have been able to reflect on many things including the difficulty of getting a design from thought all the way to cad. In the beginning the math was difficult to complete as it was a lot of steps and a lot of formulas that we had to use. The real problem came when assembling the final pieces. not due to the difficulty of the design but learning how to get certain parts to connect together without moving something else out of place or going in the wrong area. This alone set me back a vast amount of time and was definitely the most time consuming part of this project for me. This assignment was also very good to teach me about a lot of the resources that are out there to help cut down on wasting time creating things such as standard bolts or certain parts if you can just buy them off McMaster-Carr and use their STL files.
+
+
+## MEGR 2157 only
+
+
+
+
+
+<img width="772" height="547" alt="image" src="https://github.com/user-attachments/assets/0a16d190-9afb-40b0-ae71-4eca61b299cf" />
+
+
+<img width="977" height="691" alt="image" src="https://github.com/user-attachments/assets/9624c912-bcea-4058-b248-3a6f0b4fa4cb" />
+
+
+<img width="1180" height="827" alt="image" src="https://github.com/user-attachments/assets/cab9d00d-5259-4aae-a438-bffc27669fd9" />
+
+
+<img width="915" height="643" alt="image" src="https://github.com/user-attachments/assets/cc001b8a-38bd-4c49-8f44-06063e8dd1b9" />
+
+
+<img width="1067" height="755" alt="image" src="https://github.com/user-attachments/assets/094e0b62-7589-4e91-b867-beae744b6a66" />
+
+
+<img width="1047" height="737" alt="image" src="https://github.com/user-attachments/assets/e7932aa7-3d57-4710-ae7e-dd7e9a7aadaf" />
