@@ -151,3 +151,10 @@ Looking at this project holistically, I have been able to reflect on many things
 
 
 <img width="1047" height="737" alt="image" src="https://github.com/user-attachments/assets/e7932aa7-3d57-4710-ae7e-dd7e9a7aadaf" />
+
+
+
+
+[Link CAD files PRT](https://drive.google.com/drive/folders/1hvGG-3pwjTDAXpUs-_p3sdB6Ihj1ejVG?usp=sharing)
+
+
