@@ -13,7 +13,7 @@ The objective was to design a pulley system given certain parameters using diffe
 ## Belt design:
 
 
-The way we started designing this after selecting our values was to first design the belt. In order to do this, I listed my knowns and unknowns and then started solving this problem algebraically before inserting my known values. Now that I knew this, I could Now find my final value of the forces and diameters that would allow me to find an off the shelf piece
+The way we started designing this after selecting our values was to first design the belt. In order to do this, I listed my knowns and unknowns and then started solving this problem algebraically before inserting my known values. Now that I knew this, I could now find my final value of the forces and diameters that would allow me to find an off the shelf piece
 
 
 <img width="447" height="581" alt="image" src="https://github.com/user-attachments/assets/7cd544b1-be81-453c-b9c9-929471ecdff1" />
