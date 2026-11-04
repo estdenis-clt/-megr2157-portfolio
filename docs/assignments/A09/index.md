@@ -19,7 +19,7 @@ The way we started designing this after selecting our values was to first design
 <img width="447" height="581" alt="image" src="https://github.com/user-attachments/assets/7cd544b1-be81-453c-b9c9-929471ecdff1" />
 
 
-Now that I have gotten my final values I realize that I didn't have a standard size so I decided to get to the next reasonable size which allowed me to find the item 3044K708 which is a polyurethane rubber belt with the proper diameter that we needed.
+Now that I have gotten my final values I realize that I didn't have a standard size so I decided to get to the next reasonable size which allowed me to find the item 3044K708 which is a polyurethane rubber belt with the proper diameter that I needed.
 
 
 <img width="1047" height="265" alt="Screenshot 2026-11-04 174830" src="https://github.com/user-attachments/assets/d8f6dc82-2738-4d3f-a8c8-38fda00d0cd3" />
