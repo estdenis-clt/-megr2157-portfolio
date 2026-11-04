@@ -7,6 +7,9 @@
 The objective was to design a pulley system given certain parameters using different combinations of variables and concepts including size and materials of each part. We were given a plethora of given values to work with. We had to create a design where both pulleys have a diameter of 3 inches. We then had to select an operating speed between 1000–2000 rpm. We also had to select a belt tension between 4–6 lbf under stationary conditions. We were given a safety factor of 3.
 
 
+<img width="295" height="100" alt="image" src="https://github.com/user-attachments/assets/e699a9d4-442a-40ac-b9d1-d106662f982f" />
+
+
 ## Belt design:
 
 
