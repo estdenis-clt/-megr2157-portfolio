@@ -29,7 +29,7 @@ Now that I have gotten my final values I realize that I didn't have a standard s
 ## Design for shaft:
 
 
-The next part we had to design was the shaft in which the pulley was going to be attached and like I did in the previous section I started with my knowns and unknowns falling to algebraic solving to my final answers.
+The next part we had to design was the shaft in which the pulley was going to be attached and like I did in the previous section I started with my knowns and unknowns and then to algebraic solving to allow me to solve for my final answers.
 
 
 <img width="428" height="588" alt="image" src="https://github.com/user-attachments/assets/eb91f153-5e4b-4440-b413-17ba48fb244b" />
