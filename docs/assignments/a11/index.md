@@ -53,10 +53,27 @@ The next portion of the design had to be the frame itself that would allow the m
 
 Parametric Table
 
-Notes on building process...
+The next part of the project was to take all of the design parameters and dimensions and to put it into a cad file. We did this by combining what we had already done with A10 and adding on the motor and the coupling system in order to create the final model.
+
 
 <img width="682" height="626" alt="Screenshot 2026-11-11 191715" src="https://github.com/user-attachments/assets/6121d677-5e9a-48e6-bebc-68c161b90e73" />
 Noahs Screenshots, of assembly and pieces
+
+
+<img width="706" height="637" alt="Screenshot 2026-11-18 200459" src="https://github.com/user-attachments/assets/47ff2fd5-00c8-4d70-85e9-29137eca2374" />
+<img width="598" height="612" alt="Screenshot 2026-11-18 200304" src="https://github.com/user-attachments/assets/3bae6afe-9014-461c-a98d-520bfbb8587d" />
+<img width="712" height="637" alt="Screenshot 2026-11-18 200249" src="https://github.com/user-attachments/assets/ef1e944a-910d-4715-971d-d3102c399fc5" />
+<img width="595" height="527" alt="Screenshot 2026-11-18 200235" src="https://github.com/user-attachments/assets/3dc9d036-1025-4f43-b9e0-8b330112ec55" />
+<img width="645" height="674" alt="Screenshot 2026-11-18 200217" src="https://github.com/user-attachments/assets/76fd585e-c540-4953-a476-9d3512b0344e" />
+<img width="587" height="546" alt="Screenshot 2026-11-18 184116" src="https://github.com/user-attachments/assets/25b5846a-3c1d-4302-9fab-5448cb80026c" />
+
+
+After we made the cad files of the final assembly, we had to do an FEA on multiple parts of the assembly in order to test the parameters in which the assignment outlined
+
+
+<img width="749" height="481" alt="Screenshot 2026-11-18 210904" src="https://github.com/user-attachments/assets/0c3cb924-bfb3-47c8-92d8-0087480c370b" />
+<img width="781" height="502" alt="Screenshot 2026-11-18 210730" src="https://github.com/user-attachments/assets/884d337e-811d-4397-8bee-95a0fda77a18" />
+<img width="773" height="466" alt="Screenshot 2026-11-18 210552" src="https://github.com/user-attachments/assets/af2bbcb8-08ed-40a4-a725-4d80ee04a197" />
 
 Struggles
 
@@ -117,3 +134,19 @@ Throughout both parts of the assignments being a 10 and a11 we learned a lot of 
 ## Drawings (2157 Student section)
 
 <img width="722" height="540" alt="Screenshot 2026-11-11 191615" src="https://github.com/user-attachments/assets/bea2ab03-4156-47c4-b2b3-5c3bd681b035" />
+<img width="809" height="625" alt="Screenshot 2026-11-18 203221" src="https://github.com/user-attachments/assets/bab65753-8fac-4456-818b-3d0c7974e0fd" />
+<img width="757" height="591" alt="Screenshot 2026-11-18 212847" src="https://github.com/user-attachments/assets/23920a7a-4ac5-47b2-b561-b354144d17a2" />
+<img width="710" height="553" alt="Screenshot 2026-11-18 212346" src="https://github.com/user-attachments/assets/afac1075-70c1-4afe-9299-e2c590d8f6cd" />
+
+## Links to CAD Files and Drawings
+
+
+[Assembly CAD file](https://drive.google.com/file/d/1qH8I4IP3YvXpdvFuLIL-cY8mEvIoVjaR/view?usp=sharing)
+
+
+[Tensile Tester CAD file](https://drive.google.com/file/d/1HnqI8b8orZ4v1tvjkD3O-Fb-bxMbJm6x/view?usp=sharing)
+
+
+[Assembly CAD Drawing 1](https://drive.google.com/file/d/1xnHED8RcC8T2MWHMoQizKQxOc4QxKRW5/view?usp=sharing)
+
+[Assembly CAD Drawing 2](https://drive.google.com/file/d/17J8_2hlSnTyc0gD4vO4K1x0PgJYTuQqV/view?usp=sharing)
