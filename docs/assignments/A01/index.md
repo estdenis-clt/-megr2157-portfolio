@@ -141,7 +141,9 @@ Throughout both parts of the assignments being a 10 and a11 we learned a lot of 
 ## Links to CAD Files and Drawings
 
 
-[Assembly CAD file](https://drive.google.com/file/d/1cxXJ0WOyvw5H4WOSh8-LoeXcfFTnBokY/view?usp=sharing)
+[Assembly CAD file](https://drive.google.com/file/d/1qH8I4IP3YvXpdvFuLIL-cY8mEvIoVjaR/view?usp=sharing)
 
 
-[Assembly CAD Drawing](https://drive.google.com/file/d/1LOUmwl15q-MRAINotFSUhtDYvbtJo5Et/view?usp=sharing)
+[Assembly CAD Drawing 1](https://drive.google.com/file/d/1xnHED8RcC8T2MWHMoQizKQxOc4QxKRW5/view?usp=sharing)
+
+[Assembly CAD Drawing 2](https://drive.google.com/file/d/17J8_2hlSnTyc0gD4vO4K1x0PgJYTuQqV/view?usp=sharing)
