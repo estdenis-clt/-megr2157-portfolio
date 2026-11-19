@@ -55,6 +55,7 @@ Parametric Table
 
 Notes on building process...
 
+<img width="682" height="626" alt="Screenshot 2026-11-11 191715" src="https://github.com/user-attachments/assets/6121d677-5e9a-48e6-bebc-68c161b90e73" />
 Noahs Screenshots, of assembly and pieces
 
 Struggles
@@ -63,6 +64,13 @@ Yapping
 
 FEA
 
+<img width="2494" height="1398" alt="0" src="https://github.com/user-attachments/assets/d9751d23-6b2a-400c-92a9-9d41d28ac379" />
+
+<img width="1507" height="1137" alt="0" src="https://github.com/user-attachments/assets/d50f992b-b2f4-49e0-823b-bd0299216f19" />
+
+<img width="2556" height="1381" alt="0" src="https://github.com/user-attachments/assets/52ba38e1-5866-45e4-bc46-914d03f4a178" />
+
+<img width="2376" height="1398" alt="0" src="https://github.com/user-attachments/assets/531e701b-5dc5-4c59-8856-5d04df8b183c" />
 
 
 ## Design Floating Bearing Mount:
@@ -105,3 +113,5 @@ FEA
 
 
 ## Drawings (2157 Student section)
+
+<img width="722" height="540" alt="Screenshot 2026-11-11 191615" src="https://github.com/user-attachments/assets/bea2ab03-4156-47c4-b2b3-5c3bd681b035" />
