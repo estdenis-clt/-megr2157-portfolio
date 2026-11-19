@@ -21,9 +21,9 @@
 
 | Person | Hours | Cost/Hour | Total Cost |
 | :--- | :---: | :---: | :---: |
-| Jack | 6 | $35 | $210 |
-| Noah | 5 | $35 | $175 |
-| Evan | 5 | $35 | $175 |
-| **Total Cost** | | | **$560** |
+| Jack | 10 | $35 | $350 |
+| Noah | 9 | $35 | $315 |
+| Evan | 8 | $35 | $280 |
+| **Total Cost** | | | **$945** |
 
 ## Communicate
