@@ -21,9 +21,9 @@
 
 | Person | Hours | Cost/Hour | Total Cost |
 | :--- | :---: | :---: | :---: |
-| Caleb | 5 | $35 | $175 |
-| Brennan | 6 | $35 | $210 |
-| Jack | 4 | $35 | $140 |
-| **Total Cost** | | | **$525** |
+| Jack | 6 | $35 | $210 |
+| Noah | 5 | $35 | $175 |
+| Jack | 5 | $35 | $175 |
+| **Total Cost** | | | **$560** |
 
 ## Communicate
