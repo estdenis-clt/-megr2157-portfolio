@@ -48,6 +48,23 @@ The next portion of the design had to be the frame itself that would allow the m
 <img width="492" height="637" alt="image" src="https://github.com/user-attachments/assets/2e96f0eb-fa9a-428c-9a5b-1c7b9adfad7e" />
 
 
+
+## Parametric Modeling
+
+Parametric Table
+
+Notes on building process...
+
+Noahs Screenshots, of assembly and pieces
+
+Struggles
+
+Yapping
+
+FEA
+
+
+
 ## Design Floating Bearing Mount:
 
 
@@ -83,4 +100,8 @@ The next portion of the design had to be the frame itself that would allow the m
 | Evan | 8 | $35 | $280 |
 | **Total Cost** | | | **$945** |
 
-## Communicate
+
+## Lessons Learned
+
+
+## Drawings (2157 Student section)
