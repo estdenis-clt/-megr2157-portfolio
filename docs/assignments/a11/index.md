@@ -1,6 +1,10 @@
 # A11 – Motor Selection
 
+## Members:
 
+Jack Binon
+Evan St. Denis
+Noah Emery
 
 ## Introduction
 
