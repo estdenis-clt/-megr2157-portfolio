@@ -36,8 +36,7 @@ Now that we had found the speed and torque and which our motor will need to meet
 The next part we had to design was the coupler that would attach the motor to the lead screw. One of the stated requirements said that we had to select a four hole pattern to secure the mount as well as maintain precise alignment with the lead screw to prevent binding or eccentric loading. Another design parameter we needed to meet was that it has to be easily accessible for maintenance and to have minimal deflection. We ended up settling on using a vibrate dampening flexible shaft coupler in order to accommodate the requirements of the project. 
 
 
-Image of coupler design
-
+<img width="496" height="682" alt="image" src="https://github.com/user-attachments/assets/c0bb252c-18f5-422e-9944-9ae028e80ac3" />
 
 
 ## Frame design
@@ -45,7 +44,10 @@ Image of coupler design
 The next portion of the design had to be the frame itself that would allow the motor to be mounted in order to overall make the system stable and precise. The frame would consist of four standoff columns that would connect to the motor itself which would create a system where the frame would sustain two kN of force and would divide the load up without creating excessive deflection. The ends were also threaded in order to allow easy accessibility and disconnection for the purposes of maintenance or adjustments that might have to be made later down the product life cycle. Additionally it would have brackets to connect the base to the standoffs allowing a stable system.
 
 
-Images of frame design
+<img width="495" height="648" alt="image" src="https://github.com/user-attachments/assets/090a01d5-cb09-4391-8a85-8754006b9179" />
+
+
+<img width="492" height="637" alt="image" src="https://github.com/user-attachments/assets/2e96f0eb-fa9a-428c-9a5b-1c7b9adfad7e" />
 
 
 ## Design Floating Bearing Mount:
