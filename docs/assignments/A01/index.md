@@ -1,79 +1,119 @@
-
-# A1 – Build Your Professional Portfolio
-
-## Objective
-
-The objective is to design and create a portfolio that accurately represents how one should make one for the real world and for professional development. It is what's called a "functional artifact" that allows users to better understand who someone is and what they are capable of accomplishing in their field.
-
-## Analyze
-
-Task A: Portfolio Analysis
-
- 1. Navigability:
-
-Portfolio 1: As I navigated through Nathan Hoong's Engineering Portfolio, I find that everything is straight forward and easy to navigate. Anything that can be accessed in the portfolio is able to be found quickly and the content is laid out easily. Also in order to help users better grasp some of the concepts in the portfolio, Hoong uses videos and other forms of media throughout the website. This portfolio is perfectly laid out to find the relevant information or video well within 60 seconds, in fact most items are able to be access well within 15 seconds.
-
-Portfolio 2: The layout of Thanh Binh Tran's portfolio very well done in a professional manner and has its differences to the first portfolio I navigated through. Everything is streamlined and easily usable as a user to find the information one may need to find. The home page found in this portfolio has every tool possibly needed to help users get to where they need to be without having to dive through page after page to find what information one may be looking for. The way in which the portfolio is laid out for optimization is not amazing as some of the information can only be found in videos which aren't the best labeled if someone is looking for something specific. Maybe the usage of having all the words said in the video be said below in a "script" would help users greatly to more readily find specific information.
-
- 2. Reproductivity
-
-Portfolio 1: The methods in which information is presented to the users is more than enough to help a complete stranger reproduce the work stated in their multiple reports. These reports are very helpful as they go into every detail and allow the user to find the relevant info through the table of contents and locate the exact instructions or findings to guide readers. And not only do these reports explain exactly what they did but they also showed what results you should be receiving at every step of the process. and on top of explaining how things work and what results one should get, the reports also specifically go in depth as to why things are done from a conceptual idea to the actual reasons for material choices and construction process choices.
-
-Portfolio 2: The methods in which information was laid out in the second portfolio allow for decent in depth views as to how they did things but it is not nearly enough to be able to replicate it. They showed the basic functions they worked on and provided a simple explanation as to how they work but they never showed exactly how to replicate what they did and how to verify things work. The information more than enough explains what they did but it is not a quote instruction book as to how they created their product. This was likely due to a streamlining process but it would make it very difficult for users to exactly replicate their work. 
-
- 3. Evidence of reasoning :
-
-Portfolio 1: as found in the first portfolio, these in-depth reports were numerous and very thorough to the point where there are no questions that cannot be answered within the bounds of the multiple reports. Every element was discussed including other options that were considered and why they were outweighed by the Winning option. Although they could have gone more in-depth, the level of specificness was more than enough to be able to show users why their path was the best choice and that the other feasible choices were less advantageous to chase. They're evidence of reasoning primarily focused on optimization and efficiency of gathering data and the building process which in their numerous insights truly showed that their choices were indeed the correct ones and that readers will come to the same conclusion. So, not only was the final answer presented but the engineering process of iterative brainstorming and prototyping led them to their final answer.
-
-Portfolio 2: Within the contents of the portfolio, they outline their final answers as to different design elements but they did not go into a very in-depth explanation as to the processes they use to meet up to these final decisions. they would explain why it's good but there was not a big insight as to what the other options were and why this one beat them out likely in a decision matrix. The portfolio did dive into complex topics such as facial recognition and the type of recognition they used but never explained why they decided to go down that specific path versus other feasible options. Although the portfolio is extremely good at explaining complex topics in the ways in which they made their project, the iterative nature of engineering was truly not shown in terms of laying out different methods of accomplishing the same tasks. This can leave users wondering if there's a better way to optimize because the portfolio's report doesn't deter any other method by showing its disadvantages versus their final choices. 
+# A11 – Motor Selection
 
 
- 4. Professional tone
 
-Portfolio 1: The language usage and tone of the entire portfolio is considered more than professional as everything is used with approachable diction and formal syntax in order to help users to properly understand at what level these projects were without trying to come off as condescending or in any way talking down to the users. The tone of this entire portfolio is extremely up to par and would be more than suitable to hand into any employer as it shows their level of professionalism and dedication to their work that any employer would be happy to have in their own employees. A lot can be learned from this portfolio on how to use tone in instructions, portfolios and final engineering presentations shown in the real world.
+## Introduction
 
-Portfolio 2: within the second portfolio, the language and tone used are professional and are cut down to only the necessities which allows for a more digestible read as complicated topics are simplified to as short as possible. This may lead to shortcomings in specificity however within its tone this is extremely approachable and exactly what many would find professional in the engineering world. The tone even in the very in-depth and niche parts of the portfolio are approachable and come with a sense of passion from the writer that many employers would want to see in future employees.
-
-Task B: Product Analysis
+The purpose of this week's assignment was to act as a continuation of the previous project by selecting a motor for the system we designed. We will be finishing the lead screw design by adding a coupler and a motor suitable for the work and the specifications of our system. In order to do this, we split the project into parts focusing on different elements of the design and allowed us to work on this more efficiently.
 
 
-A. The primary purpose of nail clippers is to be able to precisely and easily cut through a nail without damaging the nail bed and allow users to have a mechanical advantage in order to not require a great amount of force so the product is usable for anyone. It does this by using a letter to depress a piece of metal that is intention so as the lever is pressed the top cutter is pushed all the way until it meets the lower cutter and is able to make a clean cut through the nail. and since the top cutter is intention, as the lever is released the top portion is reset back to a height where it meets the lever as a stop. 
+## Torque and speed calculations:
 
-B. Primary behavior is governed by the idea of torque, as it is a lever applying a force onto a piece of metal that will end up cutting through a nail by using the concept of shear. Because this is the main principle, the equation would be laid out by τ=Fd where torque is equal to force times the distance away from the fulcrum point and or from the pivot. This allows for a mechanical advantage that the user can use to be able to cut through the nail without struggling no matter the physical strength of the user. One of the assumptions that has to be made in the math behind a nail clipper is friction as it makes such a negligible difference in the operation of the tool that it can essentially be ignored without large ramifications.
-
-C.
-
-<img width="3060" height="4080" alt="1000004048" src="https://github.com/user-attachments/assets/2c2e310f-ac82-419e-a987-2e811131e007" />
-
-Lever: the geometric science behind the lever is important because it needs to be a certain length and angle so when it makes contact with the arms it can properly apply the force in the correct place on the arms to laugh or enough mechanical advantage to cut through the nail and without colliding with the arms. It also needs to be designed geometrically so the user can use the lever easily without having to put themselves in danger of harming their fingers or hands. The length of the lever is also important because without the proper length, the user may not be able to provide the correct amount of force on to the nail in order to allow the Jaws to cut through the nail entirely. Additionally, the geometric design is also reliant on the angle of which the lever meets the arms because without proper design, the lever could collide with the arms before reaching the proper and necessary Force required to make a clean cut. 
+In order to find the proper motor for this project, we first had to define what made a proper motor numerically. In order to do this, we needed to calculate the torque and speed that would be required for the maximum efficiency while fitting within our specifications. Once we obtained those values, we could make the selection for the proper motor to add into our lead screw system. What we did to calculate these values was to take the result we got from the previous assignment and use the formulas that were taught in the lecture as well as the ones found in the handbook in order to translate into our needed values. We found that we needed at least 10.56 Nm of torque with a max speed of 23.62 RPM.
 
 
-<img width="3060" height="4080" alt="1000004049" src="https://github.com/user-attachments/assets/01c1f691-c672-4ce2-b50c-b57cc11dae2f" />
-
-Post: The post's main purpose is to allow for the lever to apply Force onto the arms in order to be able to make the cut. Its main purpose is to keep the whole system assembled and without it no cut would be possible and the entire system would not be able to hold together. The geometric design of the post is imperative because it must allow for the lever to properly attach the lever to the point where it can rotate in order to go into the cutting position and make a full cut without detaching and then do the collapsing process without any hiccups. The other geometric importance of this post is to allow for the lever to actuate over its life cycle without having impromptu wear problems that allows for certain problems that could lead to safety hazards and improper cuts into nails. Also, the geometric importance of the design must also allow for full compression of the arms so the lever can depress it all the way without having an early collision with the fully enclosed position. 
 
 
-<img width="3060" height="4080" alt="1000004050" src="https://github.com/user-attachments/assets/fb2c10c9-c440-4e8a-9b65-3c79bae6552d" />
-
-Arms: The geometric design of the arms allows for the arms to meet together and let the blades go through the nail and make a straight cut through and then meet each other. The geometric precision required from these arms is imperative because without it either the nail clippers won't make a clean cut and perhaps harm the user or could just not work at all and just merely put an indent in the nail. The geometry must be perfect in symmetrical allowing for the Jaws to have a uniform path into each other almost like a mirror reflection.
+## Motor selection:
 
 
-D. Hector Alfaro’s design as found in patent US20070067995A1, Is an extremely easy and effective platform to allow for nail cutting to be precise and easy for everyday users. Some alternative products that fulfill the same purpose would be manual small Beauty scissors or an electric nail file which both have their advantages and disadvantages. The biggest disadvantages in both of the alternatives is the simplicity of the product as the electric nail file has a long set up time and can sometimes lack precision and the manual scissors can take a long time and the cuts are not always clean as it's heavily dependent on the capabilities of the user. On the other hand, the nail clippers are extremely easy to deploy, create cuts that are in the same Arc as natural nail beds and allow for quick and easy cuts that can be adjusted by very very precise measures in the same shape. One of the design choices the Creator made was the usage of a long hole that had rounded edges on each side which allows for the lever to be easily attached and detached from the post and arm system in order to allow for easy replacement or problem diagnosis. I believe this design was made for easy manufacturing as well as the ability to quickly disassemble the system in the event of needing a replacement or fixing a defective part. 
+Now that we had found the speed and torque and which our motor will need to meet, we were then able to select the appropriate motor. We elected to use the Nema 23 Stepper motor due to its usable torque and power and its 15 to 1 gear ratio with a planetary gearbox. 
 
 
-## Decide
-
-1. Homepage Identity: The homepage needs to let people know what my objectives are and what I have done already. It should clearly communicate that the portfolio is for the purposes of recording a professional engineers documentation specifically referring to the design process, testing, analysis and the iterative nature of engineering itself. It should identify the key elements in this portfolio and the sections that will allow users to navigate through all kinds of information. the content in which is found throughout the portfolio should really focus on the standards that need to be met and the technical reasoning behind every choice as well as what evidence even led to the choices and decisions that were made. All of these previously listed things should also focus on how things were organized and accurately recorded and should look at every project in a holistic view rather than just the solution that was created. The reason behind this approach is to allow for a reader of any kind to quickly determine and search for any information that can display a level of engineering, professionalism and precision found in the documentation and overall thinking through an engineering perspective.
-
-2. One Intentional Customization : One of the elements on the home page that I changed was the labeling of the sections of assignments. The main reason for this is that they were simply listed as A1-A11 which is nice to use as a reference in going back in the course however it leaves readers that aren't in the course to be confused on what they mean. By labeling the name of each assignment, it allows for any user to quickly navigate to the specific information that they want to look at in reference instead of having to go through many pages until they find the section they are looking for. Another additional change I made to the homepage was the color of the banner from green to blue. The reason I did this was to not only separate it from the color of our school as this is an engineering portfolio, it should be able to stand by itself without needing any type of UNCC affiliation. I thought that by making it a different color, it makes it seem more like a professional portfolio rather than one that was just made while in college. It is indeed a small change however it can do a lot to enhance the experience for users to be able to separate my work from my University.
-
-3. Your Documentation Standard : My documentation standard is simply that I'm going to do exactly what a reader would need to answer all of their questions as well as being able to meet every single rubric I may be presented with.
+<img width="497" height="643" alt="image" src="https://github.com/user-attachments/assets/42a2e66f-649d-4c25-9d66-0824a0a0335e" />
 
 
-## Communicate
 
-3. What it means to defend an engineering decision is simply by providing evidence such as data, some reasoning or some type of requirement like safety in order to back up the choices that an engineer makes. At this time, I have a pretty decent grasp on how to defend an engineering decision by simply presenting the other options and showing how they were outweighed by the chosen solution. This can be done by presenting a decision matrix or a line of reasoning or some other documentation that can eliminate other possible options.Of course there are more ways to do this but I don’t know other ways to defend an engineering decision though I would like to know. 
-
-4. Throughout the entirety of this assignment, I spent about 10 hours on this project. From start to finish it was a long and tedious process of research, iterative writing and problem solving as well as troubleshooting some issues through GitHub.
+<img width="530" height="377" alt="images" src="https://github.com/user-attachments/assets/4af56129-4c15-47cc-843c-17519d240e7a" />
 
 
+
+## Coupler design:
+
+
+The next part we had to design was the coupler that would attach the motor to the lead screw. One of the stated requirements said that we had to select a four hole pattern to secure the mount as well as maintain precise alignment with the lead screw to prevent binding or eccentric loading. Another design parameter we needed to meet was that it has to be easily accessible for maintenance and to have minimal deflection. We ended up settling on using a vibrate dampening flexible shaft coupler in order to accommodate the requirements of the project. 
+
+
+<img width="496" height="682" alt="image" src="https://github.com/user-attachments/assets/c0bb252c-18f5-422e-9944-9ae028e80ac3" />
+
+
+## Frame design
+
+The next portion of the design had to be the frame itself that would allow the motor to be mounted in order to overall make the system stable and precise. The frame would consist of four standoff columns that would connect to the motor itself which would create a system where the frame would sustain two kN of force and would divide the load up without creating excessive deflection. The ends were also threaded in order to allow easy accessibility and disconnection for the purposes of maintenance or adjustments that might have to be made later down the product life cycle. Additionally it would have brackets to connect the base to the standoffs allowing a stable system.
+
+
+<img width="495" height="648" alt="image" src="https://github.com/user-attachments/assets/090a01d5-cb09-4391-8a85-8754006b9179" />
+
+
+<img width="492" height="637" alt="image" src="https://github.com/user-attachments/assets/2e96f0eb-fa9a-428c-9a5b-1c7b9adfad7e" />
+
+
+
+## Parametric Modeling
+
+Parametric Table
+
+Notes on building process...
+
+<img width="682" height="626" alt="Screenshot 2026-11-11 191715" src="https://github.com/user-attachments/assets/6121d677-5e9a-48e6-bebc-68c161b90e73" />
+Noahs Screenshots, of assembly and pieces
+
+Struggles
+
+Yapping
+
+FEA
+
+<img width="2494" height="1398" alt="0" src="https://github.com/user-attachments/assets/d9751d23-6b2a-400c-92a9-9d41d28ac379" />
+
+<img width="1507" height="1137" alt="0" src="https://github.com/user-attachments/assets/d50f992b-b2f4-49e0-823b-bd0299216f19" />
+
+<img width="2556" height="1381" alt="0" src="https://github.com/user-attachments/assets/52ba38e1-5866-45e4-bc46-914d03f4a178" />
+
+<img width="2376" height="1398" alt="0" src="https://github.com/user-attachments/assets/531e701b-5dc5-4c59-8856-5d04df8b183c" />
+
+
+## Design Floating Bearing Mount:
+
+
+
+## Overall cost 
+
+| Item Number | Quantity | Name | Cost/Item | Cost | Purchase Link |
+| :---: | :---: | :--- | :---: | :---: | :--- |
+| 1 | 2 | 1018 Carbon Steel Acme Lead Screw | $17.04 | $34.08 | [McMaster 99030A992](https://www.mcmaster.com/99030A992) |
+| 2 | 2 | 932 Bearing Bronze Acme Flange Nut | $111.78 | $223.56 | [McMaster 95120A592](https://www.mcmaster.com/95120A592) |
+| 3 | 6 | T-Slotted Framing Extrusion (2 ft) | $31.02 | $186.12 | [McMaster 3136N734](https://www.mcmaster.com/3136N734) |
+| 4 | 1 | T-Slotted Framing Extrusion (18 in) | $40.67 | $40.67 | [McMaster 3136N736](https://www.mcmaster.com/3136N736) |
+| 5 | 1 | T-Slotted Framing Extrusion (18 in) | $21.54 | $21.54 | [McMaster 3136N735](https://www.mcmaster.com/3136N735) |
+| 6 | 8 | T-Slotted Framing Corner Bracket / Gusset | $10.30 | $82.40 | [McMaster 5537T942](https://www.mcmaster.com/5537T942) |
+| 7 | 2 | 863 Iron-Copper Sleeve Bearing | $2.59 | $5.18 | [McMaster 2938T39](https://www.mcmaster.com/2938T39) |
+| 8 | 2 | Clamping Shaft Collar | $18.38 | $36.76 | [McMaster 6698K11](https://www.mcmaster.com/6698K11) |
+| 9 | 2 | Medium-Strength Steel Hex Head Screw | $3.09 | $6.18 | [McMaster 92865A318](https://www.mcmaster.com/92865A318) |
+| 10 | 2 (1 Pack) | Black-Oxide Alloy Steel Socket Head Cap Screw | $8.35 | $8.35 | [McMaster 90044A187](https://www.mcmaster.com/90044A187) |
+| 11 | 2 (1 Pack) | Steel Dowel Pin | $14.76 | $14.76 | [McMaster 90426A370](https://www.mcmaster.com/90426A370) |
+| 12 | 2 | Vibration-Damping Precision Flexible Shaft Coupling, Clamping Hub, 53 mm Long, 41.3 mm OD, for Round Shaft | $54.67 | $109.34 | [McMaster 9845T54-9845T429](https://www.mcmaster.com/9845T54-9845T429/) |
+| 13 | 2 | Durometer 92A Spider for 1" OD and 25 mm OD Vibration-Damping Precision Flexible Shaft Coupling | $19.05 | $38.10 | [McMaster 9845T15](https://www.mcmaster.com/9845T15/) |
+| 14 | 2 | Vibration-Damping Precision Flexible Shaft Coupling, Clamping Hub, 1-13/32" Long, 1" OD, for Round Shaft | $29.07 | $58.14 | [McMaster 9845T2-9845T203](https://www.mcmaster.com/9845T2-9845T203/) |
+| 15 | 2 | T-Slotted Framing Silver Corner Bracket, 1.63" Long, 40 mm Double/Quad Rail | $12.50 | $25.00 | [McMaster 5537T442](https://www.mcmaster.com/5537T442/) |
+| 16 | 2 | NEMA 23 Bipolar Stepper Motor, L=56 mm, with 15:1 Planetary Gearbox (23HS22-2804S-PG15) | $54.79 | $109.58 | [StepperOnline 23HS22-2804S-PG15](https://www.omc-stepperonline.com/nema-23-stepper-motor-bipolar-l-56mm-w-gear-ratio-15-1-planetary-gearbox-23hs22-2804s-pg15) |
+| | | | **Total Cost** | **$999.76** | |
+
+
+
+| Person | Hours | Cost/Hour | Total Cost |
+| :--- | :---: | :---: | :---: |
+| Jack | 10 | $35 | $350 |
+| Noah | 9 | $35 | $315 |
+| Evan | 8 | $35 | $280 |
+| **Total Cost** | | | **$945** |
+
+
+## Lessons Learned
+
+Throughout both parts of the assignments being a 10 and a11 we learned a lot of different lessons. For starters, this was a huge undertaking in terms of workload being the most amount of work contributed into any of the assignments for this class by a large portion. The detail in which every part of the assignment went into truly immersed us into the engineering world and showed how overwhelming it could be. One of the biggest problems we came into was trying to make everything come together. Trying to combine our math with our modeling with our outputted ideas created long inefficient methods of going from our math to our design. Like a similar problem we had last time, a lot of our designing circled around primarily mcmaster car parts and finding the right parts that would work in our design without falling outside the parameters proved to be difficult. For our cost, we struggle to be able to accurately note how much time it took for us to complete as well as being able to go through every single of the numerous parts that were used in the assemblies of this project. Although we struggle through all these problems, our very Swift communication allowed us to quickly respond to the problems we were facing and would allow rapid development of a solution. Overall, this assignment really taught us how to work better as a team by playing to each other's strengths in order to help us get this project done in a timely manner and how we can problem solve when we face unforeseen issues.
+
+
+## Drawings (2157 Student section)
+
+<img width="722" height="540" alt="Screenshot 2026-11-11 191615" src="https://github.com/user-attachments/assets/bea2ab03-4156-47c4-b2b3-5c3bd681b035" />
