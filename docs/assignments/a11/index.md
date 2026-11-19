@@ -18,4 +18,12 @@
 | | | | **Total Cost** | **$—** | |
 
 
+
+| Person | Hours | Cost/Hour | Total Cost |
+| :--- | :---: | :---: | :---: |
+| Caleb | 5 | $35 | $175 |
+| Brennan | 6 | $35 | $210 |
+| Jack | 4 | $35 | $140 |
+| **Total Cost** | | | **$525** |
+
 ## Communicate
