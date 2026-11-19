@@ -2,9 +2,9 @@
 
 ## Members:
 
-Jack Binon
-Evan St. Denis
-Noah Emery
+- Jack Binon
+- Evan St. Denis
+- Noah Emery
 
 ## Introduction
 
