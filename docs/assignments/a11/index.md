@@ -87,6 +87,14 @@ After we made the cad files of the final assembly, we had to do an FEA on multip
 
 <img width="2376" height="1398" alt="0" src="https://github.com/user-attachments/assets/531e701b-5dc5-4c59-8856-5d04df8b183c" />
 
+So for this we took the symmetrical design and looked at one sign. We used the torque that was roughly 3.89in from the side beams to determine the force acting on the side beams and ran the FEA with that force. For all of these I used 6061-t6 aluminum
+
+
+<img width="749" height="496" alt="Screenshot 2026-11-18 224104" src="https://github.com/user-attachments/assets/f0910a03-d0fb-4294-90c3-79b53c96af9b" />
+<img width="686" height="506" alt="Screenshot 2026-11-18 224202" src="https://github.com/user-attachments/assets/e41dd92c-897c-46d0-9db3-5e38b294585f" />
+<img width="731" height="536" alt="Screenshot 2026-11-18 224125" src="https://github.com/user-attachments/assets/12480606-e156-4701-aebf-d9489133988c" />
+
+
 
 ## Design Floating Bearing Mount:
 
