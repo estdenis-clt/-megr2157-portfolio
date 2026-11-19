@@ -9,10 +9,8 @@ The purpose of this week's assignment was to act as a continuation of the previo
 
 ## Torque and speed calculations:
 
-In order to find the proper motor for this project, we first had to define what made a proper motor numerically. In order to do this, we needed to calculate the torque and speed that would be required for the maximum efficiency while fitting within our specifications. Once we obtained those values, we could make the selection for the proper motor to add into our lead screw system. What we did to calculate these values was to take the result we got from the previous assignment and use the formulas that were taught in the lecture as well as the ones found in the handbook in order to translate into our needed values.
+In order to find the proper motor for this project, we first had to define what made a proper motor numerically. In order to do this, we needed to calculate the torque and speed that would be required for the maximum efficiency while fitting within our specifications. Once we obtained those values, we could make the selection for the proper motor to add into our lead screw system. What we did to calculate these values was to take the result we got from the previous assignment and use the formulas that were taught in the lecture as well as the ones found in the handbook in order to translate into our needed values. We found that we needed at least 10.56 Nm of torque with a max speed of 23.62 RPM.
 
-
-<img width="497" height="643" alt="image" src="https://github.com/user-attachments/assets/ba5d55d8-b303-4e20-b039-67fc579a6b2f" />
 
 
 
