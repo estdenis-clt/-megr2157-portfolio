@@ -131,3 +131,6 @@ Throughout both parts of the assignments being a 10 and a11 we learned a lot of 
 ## Drawings (2157 Student section)
 
 <img width="722" height="540" alt="Screenshot 2026-11-11 191615" src="https://github.com/user-attachments/assets/bea2ab03-4156-47c4-b2b3-5c3bd681b035" />
+<img width="809" height="625" alt="Screenshot 2026-11-18 203221" src="https://github.com/user-attachments/assets/bab65753-8fac-4456-818b-3d0c7974e0fd" />
+<img width="757" height="591" alt="Screenshot 2026-11-18 212847" src="https://github.com/user-attachments/assets/23920a7a-4ac5-47b2-b561-b354144d17a2" />
+<img width="710" height="553" alt="Screenshot 2026-11-18 212346" src="https://github.com/user-attachments/assets/afac1075-70c1-4afe-9299-e2c590d8f6cd" />
