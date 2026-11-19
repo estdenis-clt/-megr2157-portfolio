@@ -61,7 +61,6 @@ The next part of the project was to take all of the design parameters and dimens
 
 
 <img width="682" height="626" alt="Screenshot 2026-11-11 191715" src="https://github.com/user-attachments/assets/6121d677-5e9a-48e6-bebc-68c161b90e73" />
-Noahs Screenshots, of assembly and pieces
 
 
 <img width="706" height="637" alt="Screenshot 2026-11-18 200459" src="https://github.com/user-attachments/assets/47ff2fd5-00c8-4d70-85e9-29137eca2374" />
@@ -79,11 +78,6 @@ After we made the cad files of the final assembly, we had to do an FEA on multip
 <img width="781" height="502" alt="Screenshot 2026-11-18 210730" src="https://github.com/user-attachments/assets/884d337e-811d-4397-8bee-95a0fda77a18" />
 <img width="773" height="466" alt="Screenshot 2026-11-18 210552" src="https://github.com/user-attachments/assets/af2bbcb8-08ed-40a4-a725-4d80ee04a197" />
 
-Struggles
-
-Yapping
-
-FEA
 
 <img width="2494" height="1398" alt="0" src="https://github.com/user-attachments/assets/d9751d23-6b2a-400c-92a9-9d41d28ac379" />
 
