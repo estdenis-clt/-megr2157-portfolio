@@ -71,7 +71,7 @@ The next part of the project was to take all of the design parameters and dimens
 <img width="587" height="546" alt="Screenshot 2026-11-18 184116" src="https://github.com/user-attachments/assets/25b5846a-3c1d-4302-9fab-5448cb80026c" />
 
 
-After we made the cad files of the final assembly, we had to do an FEA on multiple parts of the assembly in order to test the parameters in which the assignment outlined
+After we made the cad files of the final assembly, we had to do an FEA on multiple parts of the assembly in order to test the parameters in which the assignment outlined.
 
 
 <img width="749" height="481" alt="Screenshot 2026-11-18 210904" src="https://github.com/user-attachments/assets/0c3cb924-bfb3-47c8-92d8-0087480c370b" />
@@ -87,7 +87,8 @@ After we made the cad files of the final assembly, we had to do an FEA on multip
 
 <img width="2376" height="1398" alt="0" src="https://github.com/user-attachments/assets/531e701b-5dc5-4c59-8856-5d04df8b183c" />
 
-So for this we took the symmetrical design and looked at one sign. We used the torque that was roughly 3.89in from the side beams to determine the force acting on the side beams and ran the FEA with that force. For all of these I used 6061-t6 aluminum
+
+So for this we took the symmetrical design and looked at one sign. We used the torque that was roughly 3.89in from the side beams to determine the force acting on the side beams and ran the FEA with that force. For all of these we used 6061-t6 aluminum and the FEA showed that the parts are more than strong enough within the bounds of the project.
 
 
 <img width="749" height="496" alt="Screenshot 2026-11-18 224104" src="https://github.com/user-attachments/assets/f0910a03-d0fb-4294-90c3-79b53c96af9b" />
