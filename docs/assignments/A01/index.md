@@ -53,7 +53,8 @@ The next portion of the design had to be the frame itself that would allow the m
 
 Parametric Table
 
-Notes on building process...
+The next part of the project was to take all of the design parameters and dimensions and to put it into a cad file. We did this by combining what we had already done with A10 and adding on the motor and the coupling system in order to create the final model.
+
 
 <img width="682" height="626" alt="Screenshot 2026-11-11 191715" src="https://github.com/user-attachments/assets/6121d677-5e9a-48e6-bebc-68c161b90e73" />
 Noahs Screenshots, of assembly and pieces
@@ -65,6 +66,11 @@ Noahs Screenshots, of assembly and pieces
 <img width="595" height="527" alt="Screenshot 2026-11-18 200235" src="https://github.com/user-attachments/assets/3dc9d036-1025-4f43-b9e0-8b330112ec55" />
 <img width="645" height="674" alt="Screenshot 2026-11-18 200217" src="https://github.com/user-attachments/assets/76fd585e-c540-4953-a476-9d3512b0344e" />
 <img width="587" height="546" alt="Screenshot 2026-11-18 184116" src="https://github.com/user-attachments/assets/25b5846a-3c1d-4302-9fab-5448cb80026c" />
+
+
+After we made the cad files of the final assembly, we had to do an FEA on multiple parts of the assembly in order to test the parameters in which the assignment outlined
+
+
 <img width="749" height="481" alt="Screenshot 2026-11-18 210904" src="https://github.com/user-attachments/assets/0c3cb924-bfb3-47c8-92d8-0087480c370b" />
 <img width="781" height="502" alt="Screenshot 2026-11-18 210730" src="https://github.com/user-attachments/assets/884d337e-811d-4397-8bee-95a0fda77a18" />
 <img width="773" height="466" alt="Screenshot 2026-11-18 210552" src="https://github.com/user-attachments/assets/af2bbcb8-08ed-40a4-a725-4d80ee04a197" />
@@ -131,3 +137,11 @@ Throughout both parts of the assignments being a 10 and a11 we learned a lot of 
 <img width="809" height="625" alt="Screenshot 2026-11-18 203221" src="https://github.com/user-attachments/assets/bab65753-8fac-4456-818b-3d0c7974e0fd" />
 <img width="757" height="591" alt="Screenshot 2026-11-18 212847" src="https://github.com/user-attachments/assets/23920a7a-4ac5-47b2-b561-b354144d17a2" />
 <img width="710" height="553" alt="Screenshot 2026-11-18 212346" src="https://github.com/user-attachments/assets/afac1075-70c1-4afe-9299-e2c590d8f6cd" />
+
+## Links to CAD Files and Drawings
+
+
+[Assembly CAD file](https://drive.google.com/file/d/1cxXJ0WOyvw5H4WOSh8-LoeXcfFTnBokY/view?usp=sharing)
+
+
+[Assembly CAD Drawing](https://drive.google.com/file/d/1LOUmwl15q-MRAINotFSUhtDYvbtJo5Et/view?usp=sharing)
